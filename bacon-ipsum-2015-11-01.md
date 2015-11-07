@@ -1,5 +1,5 @@
 ---
-image: 'http://url.to/image.jpg'
+image: 'http://images.unsplash.com/photo-1441906363162-903afd0d3d52?dpr=2&fit=crop&fm=jpg&h=825&ixlib=rb-0.3.5&q=50&w=1450'
 title: 'Bacon ipsum test'
 ---
 
