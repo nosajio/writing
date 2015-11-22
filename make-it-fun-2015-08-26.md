@@ -1,6 +1,7 @@
 ---
 title: 'Make it Fun'
 ---
+
 If you’re reading this and you make your living from creating things, or thinking about making things, or any type of problem solving really, then you will no doubt understand the importance of state of mind.
 
 It seems obvious that state of mind can affect the outcome of our interactions, and our lives in general. In fact, the Harvard Business Review [prove this](https://hbr.org/2014/12/how-your-state-of-mind-affects-your-performance) using data collected from a group of successful business leaders. But most people still don’t focus on tuning their state.

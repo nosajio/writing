@@ -1,6 +1,7 @@
 ---
 title: 'Choose Your Editor'
 ---
+
 Imagine if the world realised that most of us web folks are still working with a text editor that hasn’t been updated in almost two years, with the next version being in beta for about the same amount of time.
 
 I’m taking about [Sublime Text](http://www.sublimetext.com) of course, the knight in shining armour that saved Textmate users from [Textmate 2](http://blog.macromates.com/2012/textmate-2-at-github/). Sublime was, and still is for the most part the most polished editor available, but it feels like the developers have gotten complacent with the project over the past couple of years.

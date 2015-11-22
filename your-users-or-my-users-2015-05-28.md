@@ -1,6 +1,7 @@
 ---
 title: 'Your Users or My Users'
 ---
+
 User (noun); a person or thing that uses something.
 
 If your work involves making stuff, I challenge you to go a day without hearing the word 'User'. It's impossible.

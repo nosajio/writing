@@ -1,6 +1,7 @@
 ---
 title: 'FutureScript'
 ---
+
 Javascript, the once toy language, is fast becoming one of the most used programming languages in the world.
 
 Back in 2010, a [highly controversial post](http://www.davidarno.org/2010/05/18/why-javascript-is-a-toy-language/) by David Arno did its rounds on the internet. He wrote:
