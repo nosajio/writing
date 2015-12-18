@@ -1,5 +1,5 @@
 ---
-title: 'The Web\'s Moves'
+title: "The Web's Moves"
 ---
 
 Way back in December 2014 I wrote a post about the future of the web animation api, and expressed my excitement about what would happen when the api made its way into the hands of ambitious developers. At the time of that post the web animation was just getting on its feet, and I was looking forward to the inevitable progress that would be made as developers got to grips with the technology.
