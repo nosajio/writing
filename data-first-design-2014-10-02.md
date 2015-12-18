@@ -18,7 +18,7 @@ I’m really bad when it comes to starting to watch new TV shows, so I want to m
 
 Now we’ve decided on those things, let's think about how we should structure that data for this little app – I’m using JSON because it forces you to make decisions about hierarchy:
 
-<pre>[{
+<pre><code class="json">[{
     "title": "Breaking Bad",
     "video_cover": "http://...",
     "video_link": "http://...",
@@ -44,7 +44,7 @@ Now we’ve decided on those things, let's think about how we should structure t
         "recommended_by": "Abi",
         "my_score": "4"
     }
-}]</pre>
+}]</code></pre>
 
 Just from looking at the data model, we start to see the interface revealing itself to us. It’s clear that the cover and title will be important components. Pressing on the item will most likely link to the video, and we’ll probably need a mechanism for scoring the show. These questions have all been posed and answered before thinking about form. Speaking of which, now’s a good time to think about what this thing should look like.
 
