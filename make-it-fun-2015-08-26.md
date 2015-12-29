@@ -1,5 +1,6 @@
 ---
 title: 'Make it Fun'
+synopsis: 'How our state of mind and surroundings can affect creative output.'
 ---
 
 If you’re reading this and you make your living from creating things, or thinking about making things, or any type of problem solving really, then you will no doubt understand the importance of state of mind.

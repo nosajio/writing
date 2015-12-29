@@ -1,5 +1,6 @@
 ---
 title: 'FutureScript'
+synopsis: 'The future of Javascript looks more fun than its past.'
 ---
 
 Javascript, the once toy language, is fast becoming one of the most used programming languages in the world.

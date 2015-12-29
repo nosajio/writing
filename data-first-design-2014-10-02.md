@@ -1,5 +1,6 @@
 ---
 title: 'Data First Design'
+synopsis: 'How a "data-first" approach to design can inform the structure of user interfaces.'
 ---
 
 In this post I’m going to explore how a data first approach to design can be used to create simple and functional UIs.

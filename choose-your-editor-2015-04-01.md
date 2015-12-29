@@ -1,5 +1,6 @@
 ---
 title: 'Choose Your Editor'
+synopsis: 'With everything moving into the browser, are our text editors going there too?'
 ---
 
 Imagine if the world realised that most of us web folks are still working with a text editor that hasn’t been updated in almost two years, with the next version being in beta for about the same amount of time.

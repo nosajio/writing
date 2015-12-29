@@ -1,5 +1,6 @@
 ---
 title: 'Your Users or My Users'
+synopsis: 'Some words on the relationship between the people behind technology and our audience.'
 ---
 
 User (noun); a person or thing that uses something.
