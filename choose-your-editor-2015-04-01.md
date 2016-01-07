@@ -1,6 +1,7 @@
 ---
 title: 'Choose Your Editor'
 synopsis: 'With everything moving into the browser, are our text editors going there too?'
+xpost: 'https://metabroadcast.com/blog/choose-your-editor'
 ---
 
 Imagine if the world realised that most of us web folks are still working with a text editor that hasn’t been updated in almost two years, with the next version being in beta for about the same amount of time.
@@ -11,7 +12,7 @@ The web is an ever-changing, always evolving entity, and it’s important that t
 
 ### atom
 
-<a href="" https:="" atom.io="" "="">Atom</a>, from the folks over at GitHub, looks a lot like most other text editors on the surface, but there’s a detail in it’s architecture that makes it very interesting indeed. It runs in [atom-shell](https://github.com/atom/atom-shell), which is basically a wrapper around Chromium, so it can be hacked on by anyone who knows enough Javascript to build a simple webpage.
+[Atom](http://atom.io/), from the folks over at GitHub, looks a lot like most other text editors on the surface, but there’s a detail in it’s architecture that makes it very interesting indeed. It runs in [atom-shell (now electron)]http://electron.atom.io/), which is basically a wrapper around Chromium, so it can be hacked on by anyone who knows enough Javascript to build a simple webpage.
 
 Atom, I think, is a step in the right direction of connecting the tech and the tools in a way that is intuitive enough to be played with, and robust enough to actually work. I’ve been using Atom for the bulk of my coding work for about a month now, and I’ve fallen quite hard for it.
 

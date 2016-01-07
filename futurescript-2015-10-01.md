@@ -1,6 +1,7 @@
 ---
 title: 'FutureScript'
 synopsis: 'The future of Javascript looks more fun than its past.'
+xpost: 'https://metabroadcast.com/blog/futurescript'
 ---
 
 Javascript, the once toy language, is fast becoming one of the most used programming languages in the world.
@@ -9,7 +10,7 @@ Back in 2010, a [highly controversial post](http://www.davidarno.org/2010/05/18/
 
 > To my mind it is self-evident that JavaScript is a toy programming language, but clearly it isn’t self-evident at all. So why do I make this claim and how can I defend it?
 
-He went on to justify his statement by citing its lack of type security, that Javascript not truly object oriented and so on. The arguments that David made back then are still (mostly) valid, but in the five years since his post Javascript has exploded.
+He went on to justify this statement by citing its lack of type security, that Javascript not truly object oriented and so on. The arguments that David made back then are still (mostly) valid, but in the five years since his post Javascript has exploded.
 
 ![js owning](http://i.imgur.com/wAxpsxg.png) <small>active repos on GitHub. sourced from [loggly.com](https://www.loggly.com/blog/the-most-popular-programming-languages-in-to-github-since-2012/)</small>
 
@@ -32,6 +33,6 @@ To show you how crazy this is, here’s a gentleman controlling a drone with a u
 
 I’ve quoted Atwoods law in [a post](https://metabroadcast.com/blog/making-bots-work-for-us) before, it goes like this: "any application that can be written in JavaScript, will eventually be written in JavaScript.".
 
-I recently went to a talk about [Nativescript](https://www.nativescript.org/) which is a promising step towards writing native apps with Javascript. It's impressive, but things like this make me a bit nervous because they are adding another layer between the programmer and the raw metal. How far will this go?
+I recently attended talk about [Nativescript](https://www.nativescript.org/) which is a promising step towards writing native apps with Javascript. It's impressive, but things like this make me a bit nervous because they are adding another layer between the programmer and the raw metal. How far will this go?
 
 Whether we like it or not Javascript is still moving fast. If you’re a lover of Javascript, then belt up and enjoy the ride. If you’re a hater, I suggest you get ready for the show.

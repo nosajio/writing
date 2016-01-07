@@ -1,6 +1,7 @@
 ---
 title: 'Your Users or My Users'
 synopsis: 'Some words on the relationship between the people behind technology and our audience.'
+xpost: 'https://metabroadcast.com/blog/your-users-or-my-users'
 ---
 
 User (noun); a person or thing that uses something.
@@ -38,10 +39,6 @@ The benefit of approaching a new thing this way is that its a mighty powerful, y
 As makers, we're nothing special. We're just the agent between a problem and a solution. One can't exist without the other, and its our job to join them up. So, if we don't properly respect the problem, and its use in the real world, how are we going to end up at a good solution?
 
 In the book [Notes on the Synthesis of Form](http://www.amazon.co.uk/Notes-Synthesis-Form-Harvard-Paperbacks/dp/0674627512), author Christopher Alexander talks about the importance of 'good fit' in design, and how as makers of things, that's all we're really aiming for—a snug fit between the problem and solution. The better the fit, the better the solution.
-
-This is where audience, or 'Users' come in. Let's use [Atlas](http://atlas.metabroadcast.com) as an example. Atlas outputs lots of data in a single call, all structured to make it easy for a programmer to interact with. We're lucky because the audience of Atlas are mostly programmers and data nerds (also a description of the staff at MetaBroadcast).
-
-If we didn't consider the end use of Atlas very early in the process, and its 'Users', the output of Atlas would probably look radically different. So you could say as product makers, we _serve_ the users. If you've been in a client meeting at a snazzy design agency recently, you might think that its the other way around. The 'Users' serve us.
 
 ### so, whose users?
 

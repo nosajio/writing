@@ -1,6 +1,7 @@
 ---
-title: 'Animation on the Web'
+title: 'Animation and the Web'
 synopsis: 'Thoughts on the future of the web animation api'
+xpost: 'https://metabroadcast.com/blog/animation-and-the-web'
 ---
 
 Moore's Law tells us that the size of computer chips gets exponentially smaller while at the same time getting exponentially cheaper over time. This concept of accelerating change can be applied to technology as a whole. With this being the case, how can we — the people working inside the technology industry — have any chance of keeping up to date with the constant changes to our toolkit?
