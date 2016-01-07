@@ -2,7 +2,7 @@
 title: 'Why I Made My Own Website in 2016'
 synopsis: 'Despite the range of products for writing and hosting content online, I decided to go from scratch.'
 ---
-Once upon a time, the world wide web was more like the wild west than Time Square. This was a time when only the brave ventured out into this world of unknowns to explore the boundaries of HTML and HTTP, and maybe build a little place of their own online.
+Once upon a time, the world wide web was more like the wild west than Times Square. This was a time when only the brave ventured out into this world of unknowns to explore the boundaries of HTML and HTTP, and maybe build a little place of their own online.
 
 This short phase that later acquired the moniker "Web 1.0" might one day be remembered as nothing more than a blip in time. The short calm before the masses gravitated to the web when – to most people – it was still a gimmick.
 
