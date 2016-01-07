@@ -6,7 +6,7 @@ Once upon a time, the world wide web was more like the wild west than Time Squar
 
 This short phase that later acquired the moniker "Web 1.0" might one day be remembered as nothing more than a blip in time. The short calm before the masses gravitated to the web when – to most people – it was still a gimmick.
 
-This was a time before the internet was a place that contains all the websites we go to; before Facebook, MySpace, Twitter and Instagram opened their doors. If you wanted to put something on the web back then you would have to learn how to write markup, how to host a website (probably with your ISP), and eventually learn how to express yourself on screen with tables and text. 
+This was a time before the internet was a place that contains all the websites we go to; before Facebook, MySpace, Twitter and Instagram opened their doors. If you wanted to put something on the web back then you would have to learn how to write markup, how to host a website (probably with your ISP), and eventually learn how to express yourself on screen with tables and text.
 
 ***
 
@@ -17,13 +17,13 @@ I've watched as many of my friends who are starting their own respective project
 Before starting work on this website in early December I was in a similar position. I explored a lot of options before going forward, some just out of curiosity and others because I was genuinely interested in using a third party tool for my writings. Here's the outcome of my research into writing platforms:
 
 ### The Hosted Options
-Hosted options like Medium, Wordpress hosted, Blogger etc were originally where I looked. To me these products are great for writing short disposable pieces, but they're not where I want to host my creative work. 
+Hosted options like Medium, Wordpress hosted, Blogger etc were originally where I looked. To me these products are great for writing short disposable pieces, but they're not where I want to host my creative work.
 
 It's not a new thing to be wary of The Cloud™ as a long term safe storage mechanism<sup>1</sup>. Services come and go all the time and people loose their data, yet we still keep on putting all our eggs in the most convenient basket.
 
 ### The Self-hosted Flatpack Options
 
-These are things like Wordpress and Ghost who offer a flatpack host-it-yourself downloads and give you a decent set of tools for hosting a website or personal blog. This is good, but from experience it can require some hacking if you want anything outside of default functions. That and the inevitable [feature debt](https://en.wikipedia.org/wiki/Technical_debt). 
+These are things like Wordpress and Ghost who offer a flatpack host-it-yourself downloads and give you a decent set of tools for hosting a website or personal blog. This is good, but from experience it can require some hacking if you want anything outside of default functions. That and the inevitable [feature debt](https://en.wikipedia.org/wiki/Technical_debt).
 
 There's also the "static blog" options, like Jekyll. I've used [Jekyll](https://jekyllrb.com/) in the past for numerous blogs and projects, but for this project I was more interested in using Javascript, and unfortunately Jekyll is written in Ruby.
 
@@ -39,7 +39,7 @@ I'll be writing a technical follow up post to this one soon that goes more in de
 
 ***
 
-After some thought I had come to the decision that whatever I made should be super simple in design and execution. I wanted to play to the strengths of making my own website, and not build another monolith. 
+After some thought I had come to the decision that whatever I made should be super simple in design and execution. I wanted to play to the strengths of making my own website, and not build another monolith.
 
 I decided to concentrate on:
 
@@ -51,8 +51,8 @@ _I wanted to make the fastest blog that I've ever used._
 
 **Creative freedom**: I had a blank canvas to do with anything that I desired, so I wanted to use the opportunity as a way to exercise my web muscles.
 
-## Designing it: Hosting Content
-Before starting I thought a lot about the most appropriate way host my writings. The ideal solution should allow my posts to be saved as flat [Markdown](https://daringfireball.net/projects/markdown/) files, and it should allow the data to be accessible to the blog, be safe from accidental deletion, and be easy to update when I publish new content. 
+### Designing it: Hosting Content
+Before starting I thought a lot about the most appropriate way host my writings. The ideal solution should allow my posts to be saved as flat [Markdown](https://daringfireball.net/projects/markdown/) files, and it should allow the data to be accessible to the blog, be safe from accidental deletion, and be easy to update when I publish new content.
 
 You can never be too careful when it comes to backing up your stuff — there's a saying "Two is one and one is none" that says it all.
 
@@ -68,7 +68,7 @@ The service would need to have a series of simple jobs. It should pull the Markd
 I'll cover the technicalities of service in my follow up post.
 
 ### Designing it: The Front End
-Between the two desirables that I'd decided on — speed and creative freedom — the front end already had a lot to live up to. 
+Between the two desirables that I'd decided on — speed and creative freedom — the front end already had a lot to live up to.
 
 I read a lot of blogs that have great content but suffer with terrible usability. The typography is usually what suffers the most, but speed and lack of mobile support are also common experience killers. I didn't want my blog to suffer in any of these areas so I made sure every decision would be looked at through the filter of speed and good usability.
 
@@ -82,7 +82,7 @@ But this is the web after all, so the experimentation is not over. I intend to t
 
 ***
 
-This post has ended up being way longer than I'd originally planned, so if you're still with me at this point I'm very grateful for your attention! 
+This post has ended up being way longer than I'd originally planned, so if you're still with me at this point I'm very grateful for your attention!
 
 I'll be posting over here up to couple of times a week from now on. I plan to write mostly about web technology, how to make the web a better place to work and play, subjects like human behaviour, and anything I think may be helpful or interesting to write about.
 
