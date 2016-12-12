@@ -12,6 +12,7 @@ The truth is that when we reflect on how _good_ we are for whatever reason, we'r
 
 <div>
 	<iframe width="560" height="399" src="https://www.youtube.com/embed/Xe1Qyks8QEM" frameborder="0" allowfullscreen></iframe>
+	<cite>Essena O'Neill gave up the social media high life after she saw behind the curtain.</cite>
 </div>
 
 ## Don't Seek Attention. Test yourself.
@@ -25,4 +26,3 @@ The benefit to testing yourself over praising yourself is that you open yourself
 ---
 
 For inspiring this post, thanks to: [Letters From a Stoic (Seneca)](https://www.amazon.co.uk/d/Books/Letters-Stoic-Epistulae-Morales-Ad-Lucilium-Classics/0140442103), [Ego is the Enemy (Ryan Holiday)](https://www.amazon.co.uk/Antifragile-Things-that-Gain-Disorder/dp/0141038225), and [Antifragile (Nassim Nicholas Taleb)](https://www.amazon.co.uk/Antifragile-Things-that-Gain-Disorder/dp/0141038225).
-

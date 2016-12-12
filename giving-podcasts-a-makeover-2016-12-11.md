@@ -6,15 +6,15 @@ color: "#762BAA"
 
 Back in 2004, a new feature was added to iTunes version 4.9. that would change the idea of radio forever. Apple introduced the humble Podcast in the iTunes release notes as "... frequently updated radio-style shows downloadable over the Internet". 
 
-The simple technological nature of a Podcast—its no more than a glorified RSS feed—and a library of high profile content, set the Podcast up to be an immediate hit in the realm of digital media.
+[The simple technological nature](http://computer.howstuffworks.com/internet/basics/podcasting.htm) of a Podcast—its no more than a glorified RSS feed—and a library of high profile content, set the Podcast up to be an immediate hit in the realm of digital media.
 
 <div>
     <iframe width="710" height="399" src="https://www.youtube.com/embed/qX5VvDtnOW8" frameborder="0" allowfullscreen=""></iframe>
 </div>
 
-According to a study conducted by Pew in 2016 there's somewhere around 30,000 podcasts in existence, and 21% of the US population say that they listen to podcasts at least once per month. I must listen to about 14 hours of podcast content every week, and when us humans spend enough time doing anything, we inevitably start thinking of ways it could be improved.
+According to [a study conducted by Pew in 2016](http://www.journalism.org/2016/06/15/podcasting-fact-sheet/) there's somewhere around 30,000 podcasts in existence, and 21% of the US population say that they listen to podcasts at least once per month. I must listen to about 14 hours of podcast content every week, and when us humans spend enough time doing anything, we inevitably start thinking of ways it could be improved.
 
-Coming up are some ideas that I've had about how to make podcasts better from both the listener's and the producer's perspective.
+Coming up are some ideas that I've had about how to make podcasts better from both the listener's and the producer's perspective...
 
 ## Speech to Text & Quote Highlighting
 If a Podcast app had this feature, I'd probably find a use for it with every Podcast episode I listen to. No more rewinding, opening a notes app, and then repeatedly pausing while noting down—line by line—something you hear that's worth remembering.
