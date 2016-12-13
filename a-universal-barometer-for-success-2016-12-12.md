@@ -1,7 +1,7 @@
 ---
 title: "A Universal Barometer For Success"
 category: "humans"
-color: "#EB4E31"
+color: "#D92D2D"
 ---
 
 We live in a curious age. Now is a time when the scent of 'success' is more pungent than ever, yet just as unattainable as it ever was. Schools teach children to pursue success but don't show them how to define it or even how to work for it. Many of us spend sizeable chunks of our adult lives trying to figure out what success even means.
