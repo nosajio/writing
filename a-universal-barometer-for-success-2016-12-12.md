@@ -1,7 +1,7 @@
 ---
 title: "Choosing The Right Path"
 category: "humans"
-color: "#D92D2D"
+color: "#ffe772"
 ---
 
 We live in a curious age. Now is a time when the scent of 'success' is more pungent than ever, yet just as unattainable. Nowadays, schools teach children to pursue success but don't show them how to work for it or even how to define it. Many of us spend sizeable chunks of our adult lives trying to figure out what success even means.
