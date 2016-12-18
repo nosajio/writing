@@ -1,14 +1,14 @@
 ---
-title: "A Universal Barometer For Success"
+title: "Choosing The Right Path"
 category: "humans"
 color: "#D92D2D"
 ---
 
-We live in a curious age. Now is a time when the scent of 'success' is more pungent than ever, yet just as unattainable as it ever was. Schools teach children to pursue success but don't show them how to define it or even how to work for it. Many of us spend sizeable chunks of our adult lives trying to figure out what success even means.
+We live in a curious age. Now is a time when the scent of 'success' is more pungent than ever, yet just as unattainable. Nowadays, schools teach children to pursue success but don't show them how to work for it or even how to define it. Many of us spend sizeable chunks of our adult lives trying to figure out what success even means.
 
-One thing that we all have in common when it comes to the idea of success is that it involves being _good_ at something. It involves being special; being noticed. And that's where the fallacy occurs. We mistake the byproduct of success, the attention, as the fruits.
+One thing that we all have in common when it comes to the idea of success is that it involves being _good_ at something. It involves being special; being noticed. And that's where the fallacy occurs. We mistake the byproduct of success—wealth and attention—for the fruits.
 
-The truth is that when we reflect on how _good_ we are for whatever reason, we're living an existence that might as well be divorced from reality. Being decidedly sure of our own abilities will lead us closer towards the darkness than happiness. That voice—that ego—in your head will lie to you for all of your life if you let it. It will only lead you to the safe opportunities, and it will amplify small achievements into great feats of success.
+The truth is that when we reflect on how _good_ we are for whatever reason, we're living an existence that might as well be divorced from reality. Being so sure of your own abilities will lead you closer towards the darkness than happiness. That inner voice—that ego—in your head will lie to you for all of your life if you let it. It will only lead you to the safe opportunities, and it will amplify small achievements into great feats of success.
 
 <div>
 	<iframe width="560" height="399" src="https://www.youtube.com/embed/Xe1Qyks8QEM" frameborder="0" allowfullscreen></iframe>
