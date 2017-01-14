@@ -1,7 +1,7 @@
 ---
 title: "What is Success?"
 category: "humans"
-color: "#e3c65e"
+color: "#fae59b"
 ---
 
 We live in a curious age. Now is a time when the scent of success is more pungent, yet just as unattainable as ever. Schools indoctrinate children to pursue the mirage of success but don't show them how to work for it, or even how to define it. Many of us spend sizeable chunks of our adult lives trying to figure out what success even means!
