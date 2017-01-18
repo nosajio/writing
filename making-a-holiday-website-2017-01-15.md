@@ -1,7 +1,7 @@
 ---
 title: "What I Learned Making A Holiday Website"
 category: "product"
-color: "#DCF1FF"
+color: "#348CFF"
 ---
 
 For most of the last half of 2016 I was working with a startup called BeachFix on the first non-beta version of their product. The idea behind BeachFix is simple: give people the tools to find their dream beach holiday.
