@@ -1,8 +1,7 @@
 ---
 title: "What I Learned Making A Holiday Website"
 category: "product"
-color: "#348CFF"
-coverImg: "https://images.unsplash.com/photo-1424112908919-49d7a3e04482?dpr=2&auto=format&fit=crop&w=1500&h=997&q=80&cs=tinysrgb&crop="
+coverImg: "http://a.nosaj.io/cover--making-a-holiday-website.jpg"
 coverColor: "#FCF1C0"
 ---
 
