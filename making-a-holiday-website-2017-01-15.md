@@ -2,7 +2,7 @@
 title: "Lessons From Making A Beach Holiday Website"
 category: "product"
 coverImg: "http://a.nosaj.io/cover--making-a-holiday-website.jpg"
-coverColor: "#FCF1C0"
+coverColor: "#a5e2d1"
 ---
 
 For most of the last half of 2016 I was working with a startup called BeachFix on the first non-beta version of their product. The idea behind BeachFix is simple: give people the tools to find their dream beach holiday.

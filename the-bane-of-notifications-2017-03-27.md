@@ -1,7 +1,7 @@
 ---
 title: "The Bane of Notifications"
 coverImg: "http://a.nosaj.io/cover--bane-of-notifications.jpg"
-coverColor: "#ED1616"
+coverColor: "#ffaaaa"
 ---
 
 If you're naive like I am, you'll probably believe that you're above distraction. When you're focussed, there's nothing, from your phone ringing to a bomb going off across the street, that can arouse you.

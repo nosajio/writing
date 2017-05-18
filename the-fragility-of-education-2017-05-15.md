@@ -1,6 +1,6 @@
 ---
 title: "Fragility of Education"
-coverColor: "#f8cf55"
+coverColor: "#ffefc1"
 coverImg: "http://a.nosaj.io/cover--fragility-of-education.jpg"
 ---
 

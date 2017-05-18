@@ -1,7 +1,7 @@
 ---
 title: "Giving Podcasts a Makeover"
 category: "idea"
-color: "#5C0EB3"
+coverColor: "#c3a2e8"
 ---
 
 Back in 2004, Apple introduced the Podcast in the iTunes version 4.9 release notes as "... frequently updated radio-style shows downloadable over the Internet".
