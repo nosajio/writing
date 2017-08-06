@@ -44,7 +44,7 @@ To receive payments, we'll need to tell PayPal what to charge people when they p
 Once your button has been configured, PayPal will generate some code that will need to be pasted into the page that we'll make next. After configuring each button, I pasted the generated code into a empty text file for safe keeping.
 
 ## 2: Making the Support Page
-<div class="image fill">
+<div class="image narrow fill">
   <img src="http://a.nosaj.io/patron-page-timelapse.gif" alt="" />
 </div>
 
