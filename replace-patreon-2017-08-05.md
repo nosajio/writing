@@ -2,7 +2,7 @@
 title: Replace Your Patreon Page With PayPal and MailChimp
 category: "idea"
 coverImg: "http://a.nosaj.io/cover--my-patron.jpg"
-coverColor: "#2a2a2a"
+coverColor: "#777777"
 ---
 
 About a week ago, Journalist Tim pool sent out a tweet asking if anybody could help him create a simple subscriber platform for donors. 
