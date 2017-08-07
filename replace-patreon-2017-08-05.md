@@ -48,9 +48,13 @@ Once your button has been configured, PayPal will generate some code that will n
   <img src="http://a.nosaj.io/patron-page-timelapse.gif" alt="" />
 </div>
 
-This is the most technical part of this guide, and it isn't all that technical, which is a good thing.
+<div class="package">
+  <p>Here are some handy links. I dumped the code for this into a repo, and put an example live.</p>
+  <a href="http://a.nosaj.io/my-patron/index.html" target="_blank" class="link">Example page</a>
+  <a href="https://github.com/nosajio/my-patron" target="_blank" class="repo">The code</a>
+</div>
 
-There's an example of the page that I made here, and I've dumped the code in [a git repo](https://github.com/nosajio/my-patron) too.
+This is the most technical part of this guide, and it isn't all that technical, which is a good thing.
 
 I won't go in depth about every part of the page. Instead I'll focus on the important stuff, like how to embed and customise the PayPal buttons, and where to put messaging aimed at potential supporters.
 
