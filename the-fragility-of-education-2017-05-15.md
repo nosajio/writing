@@ -14,7 +14,7 @@ Let's hypothesise for a moment. Say that we figure out how to fix the traditiona
 
 <div class="image">
 	<img src="http://a.nosaj.io/school-kids-working.jpg" alt="" />
-	<span class="image-caption">
+	<span class="caption">
 		A typical classroom during the industrial revolution.
 	</span>
 </div>
