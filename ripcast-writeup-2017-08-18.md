@@ -13,7 +13,7 @@ Late one evening in April 2017, I was reflecting on how frustrating the YouTube 
 That wasn't the first time YouTube's user experience had annoyed me. This is probably because I'm not the average YouTube consumer; my YouTube "Watch later" playlist is filled with content like lectures, talks, interviews, and other radio-type shows that I want to *listen to* and not watch. I usually like to listen to this sort of content while doing other things. If you've ever tried to use the YouTube app to consume content in this way (especially if you're carrying your device in your pocket), this frustration will be all too familiar.
 
 ### Less Than Ideal YouTube App Behaviour
-The YouTube app will to things that makes passive use almost impossible:
+The YouTube app will do things that makes passive use almost impossible:
 
 - App will sense taps while the device is pocketed, causing play / pause to be activated, and sometimes a related video will magically start to play.
 - When the video is pocket-skipped, the YouTube app sometimes forgets playback position after navigating back to original video.
@@ -72,7 +72,7 @@ From the prototype, I wanted to learn how viable the downloading and storing of 
 
 It's worth saying that coding isn't required for making a prototype. Pieter Levels once [wrote about this](https://levels.io/product-hunt-hacker-news-number-one/) after he made a "crowdsourced spreadsheet as an MVP":
 
-> Instead of building a site first, I simply made public Google spreadsheet to collect the first data and see if there’d be interest for this at all[...] It quickly filled up and with Twitter going crazy about just a spreadsheet list, I had just answered the hypothesis if there’d be interest for this. There was some proprietary data people put on there which I deleted (like Numbeo) and made sure it was all crowd sourced public (and open) data.
+> Instead of building a site first, I simply a made public Google spreadsheet to collect the first data and see if there’d be interest for this at all[...] It quickly filled up and with Twitter going crazy about just a spreadsheet list, I had just answered the hypothesis if there’d be interest for this. There was some proprietary data people put on there which I deleted (like Numbeo) and made sure it was all crowd sourced public (and open) data.
 
 **Don't assume you have to have a special set of skills to make good software. Making software is about improvisation and pragmatism as much as it is about coding.**
 
