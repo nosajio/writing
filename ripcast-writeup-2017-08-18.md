@@ -1,5 +1,5 @@
 ---
-title: I Made an App For Making Podcasts From YouTube Videos
+title: I Made an App For Turning YouTube Videos Into Podcasts
 category: "writeup"
 coverImg: "http://a.nosaj.io/cover--ripcast.jpg"
 coverColor: "#8CFFBA"
