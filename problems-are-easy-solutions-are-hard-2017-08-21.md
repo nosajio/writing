@@ -12,7 +12,7 @@ This concerns me because I wonder how powerful that mechanism for disgust could 
 > I’m an expert on how technology hijacks our psychological vulnerabilities. That’s why I spent the last three years as Google’s Design Ethicist caring about how to design things in a way that defends a billion people’s minds from getting hijacked.  
 
 > When using technology, we often focus optimistically on all the things it does for us. But I want you to show you where it might do the opposite.
-> – <cite>http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/</cite>	
+> <cite>– [TRISTAN HARRIS - How Technology Hijacks People’s Minds — from a Magician and Google’s Design Ethicist](http://www.tristanharris.com/2016/05/how-technology-hijacks-peoples-minds%E2%80%8A-%E2%80%8Afrom-a-magician-and-googles-design-ethicist/)</cite>	
 
 The [MSM](https://en.wikipedia.org/wiki/Mainstream_media) and social networks are learning that stories spun in a negative hyperbolic way are more performant for the metric they want (time on site).
 
