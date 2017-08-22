@@ -1,5 +1,5 @@
 ---
-title: "Only Seeing Problems Doesn't Change Anything"
+title: "Recreational Outrage is Toxic"
 coverColor: "#A409B9"
 category: "humans"
 coverImg: "http://a.nosaj.io/cover--problems.gif"
