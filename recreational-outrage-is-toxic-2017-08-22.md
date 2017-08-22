@@ -31,4 +31,4 @@ This Hacker News comment is a perfect example of what I'm talking about. The com
 > [1] Here's the paper: http://gabriel-zucman.eu/files/PSZ2017.pdf
 > <cite>– [Hacker News user cs702](https://news.ycombinator.com/item?id=15060604)</cite>
 
-Finding a new reason to be outraged is easy. Literally anybody can do that. We have to start making an effort to understand how the world works and use that understanding to make it better.
+Finding a new reason to be outraged is easy. Literally anybody can do that. We have to start making an effort to understand how the world works and use that understanding to make the world better.
