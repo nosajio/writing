@@ -5,11 +5,11 @@ category: "humans"
 coverImg: "http://a.nosaj.io/cover--problems.gif"
 ---
 
-Human perception is frighteningly sensitive. Nobody likes to think of themselves as easy to manipulate, but the sensitivity of human perception makes us – well – really easy to manipulate. 
+Human perception is frighteningly sensitive. Nobody likes to think of themselves as easy to fool, but the sensitivity of human perception makes us all – well – very open to manipulation. 
 
-In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) done in 2012, scientists were able to make participants act in a way considered prejudiced, simply by introducing a bad smell into the room they were in.
+In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) done in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell into the room with them.
 
-The outcome of the study is concerning. How people behave depends a great deal on how we perceive our environment. So what happens when we collectively perceive the world around us as fundamentally broken?
+The outcome of the above study is concerning. How people behave depends a great deal on how we perceive our environment. So what happens when we collectively perceive the world around us as fundamentally broken?
 
 ## Enter The Main Stream Media
 The [main stream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they want (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
