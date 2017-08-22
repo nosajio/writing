@@ -14,11 +14,13 @@ The outcome of the above study is concerning. How people behave depends a great 
 ## Enter The Main Stream Media
 The [main stream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they want (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
 
-I wonder what would happen if everybody – especially the MSM – recognised the damage this negativity is inevitably doing and changed their focus from spinning everything negatively to using their platforms for affecting positive change. Maybe I crazy, but I think that attempting to understand the world seems like a more useful way to spend time than pointing and screaming at things.
+I wonder what would happen if everybody – especially the MSM – recognised the damage this constant state of hysteria is doing to society, and changed their focus from spinning everything negatively to affecting positive change.
 
-Imagine, instead of just pointing at parts of the machine and saying "that's broken", "fuck, that's broken", "it's all broken YOLO", we looked and said "hey, that's fucked BUT here's a way I think we could fix it". Not only would this imaginary society be orders of magnitude better to exist in, it would be more productive than in our wildest dreams. It would be so productive because it would replace the current fashion of recreational outrage with recreational problem solving.
+Imagine, instead of just pointing at parts of the machine and saying "that's broken", "that's broken", "it's all broken YOLO", we looked and said "hey, that's definitely fucked BUT here's a way I think we could fix it". Not only would this imaginary society be orders of magnitude better to exist in, it would be more productive than our wildest dreams. 
 
-Saying "it's broken" is easy – anyone can do that. Fixing problems, that's where it get's hard. Because it means you need to actually make an effort to understand the world, and that is no easy thing to to properly.
+Society would be so productive because the current fashion of recreational outrage would be replaced with *recreational problem solving*.
+
+Saying "it's broken" is easy – anyone can do that. Fixing problems, that's where things get interesting. Because it means you need to actually make an effort to **understand** the world.
 
 This Hacker News comment is a perfect example of what I'm talking about. The comment is in response to a article on VOX titled "[The rich are hoarding economic growth](https://www.vox.com/policy-and-politics/2017/8/8/16112368/piketty-saez-zucman-income-growth-inequality-stagnation-chart)":
 
