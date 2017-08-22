@@ -5,7 +5,7 @@ category: "humans"
 coverImg: "http://a.nosaj.io/cover--problems.gif"
 ---
 
-Human perception is frighteningly sensitive. Nobody likes to think of themselves as easy to fool, but the sensitivity of human perception makes us all – well – very open to manipulation. 
+Human perception is frighteningly sensitive. Nobody likes to think of themselves as easy to fool, but the sensitivity of human perception makes us all frighteningly open to manipulation. 
 
 In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) done in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell into the room with them.
 
@@ -18,7 +18,7 @@ I wonder what would happen if everybody – especially the MSM – recognised th
 
 Imagine, instead of just pointing at parts of the machine and saying "that's broken", "that's broken", "it's all broken YOLO", we looked and said "hey, that's definitely fucked BUT here's a way I think we could fix it". Not only would this imaginary society be orders of magnitude better to exist in, it would be more productive than our wildest dreams. 
 
-Society would be so productive because the current fashion of recreational outrage would be replaced with *recreational problem solving*.
+This imaginary society would be so productive because the current fashion of recreational outrage would be replaced with *recreational problem solving*.
 
 Saying "it's broken" is easy – anyone can do that. Fixing problems, that's where things get interesting. Because it means you need to actually make an effort to **understand** the world.
 
