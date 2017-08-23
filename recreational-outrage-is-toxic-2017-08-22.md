@@ -11,8 +11,8 @@ In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor
 
 The outcome of the above study is concerning. How people behave depends a great deal on how we perceive our environment. So what happens when we collectively perceive the world around us as fundamentally broken?
 
-## Enter The Main Stream Media
-The [main stream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they want (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
+## Enter The Mainstream Media
+The [mainstream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they want (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
 
 I wonder what would happen if everybody – especially the MSM – recognised the damage this constant state of hysteria is doing to society, and changed their focus from spinning everything negatively to affecting positive change.
 
