@@ -1,18 +1,27 @@
 ---
 title: "Recreational Outrage is Toxic"
-coverColor: "#A409B9"
+coverColor: "#EE7B45"
 category: "humans"
 coverImg: "http://a.nosaj.io/cover--problems.gif"
 ---
 
-Human perception is a curious thing. Nobody likes to think of themselves as easy to fool, but the sensitivity of human perception means that we are all frighteningly vulnerable to outside manipulation. 
+<div class="quotes-opener">
+	<blockquote>
+		<p>Reality is merely an illusion, albeit a very persistent one</p>
+		<cite>– Albert Einstein</cite>
+	</blockquote>
+</div>
 
-In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) done in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell into the room with them.
+We all like to believe that we're in control of our psyche's. We avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol because of fear of losing control.
 
-The outcome of the above study is concerning. How people behave depends a great deal on how we perceive our environment. So what happens when we collectively perceive the world around us as fundamentally broken?
+As with most things, the sense of control and ownership we exercise over our lives is — for the most part — an illusion.
+
+In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) that was carried out in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell (of trash) into the room with them.
+
+The outcome of the above study is concerning. If how people behave depends such a great deal on how we perceive our environment, what happens when we collectively perceive the world around us as fundamentally broken?
 
 ## Enter The Mainstream Media
-The [mainstream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they want (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
+The [mainstream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they pursue (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
 
 I wonder what would happen if everybody – especially the MSM – recognised the damage this constant state of hysteria is doing to society, and changed their focus from spinning everything negatively to affecting positive change.
 
