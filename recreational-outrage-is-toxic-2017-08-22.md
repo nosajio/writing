@@ -14,15 +14,15 @@ coverImg: "http://a.nosaj.io/cover--problems.gif"
 
 Recreational outrage is becoming the modus operandi behaviour nowadays. 
 
-We like to believe that we're not so easily affected by external forces though. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of losing control.
+Despite all the ambient hysteria going on around us at all times, we like to believe that we're not so easily affected as others by external forces. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of not being in control.
 
 As with most things we perceive, the sense of control we exercise over our lives is, for the most part, an illusion.
 
 In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) that was carried out in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell into the room with them.
 
-In [another study](http://www.pnas.org/content/111/24/8788.full), this one from 2013, scientists were able to use Facebook to manipulate the state of others through 'emotional contagion'. This means that moods like depression and happiness were transferred through the network by controlling the data participants were exposed to.
+In [another study](http://www.pnas.org/content/111/24/8788.full), this one from 2013, scientists were able to use Facebook to manipulate the emotional state of others by 'emotional contagion'. This means that moods like depression and happiness were transferred through the social network like a virus, by controlling the data participants were exposed to.
 
-The outcomes of the above studies could highlight a serious latent flaw in how humans use networks. If how people behave depends such a great deal on how we perceive our environment, what happens when people start to perceive the world as fundamentally broken? How might that change our collective behaviour?
+The outcomes of the above studies could highlight a serious latent flaw in how humans use social networks. If how people behave depends such a great deal on how we perceive our environment, what happens when people start to perceive the world as fundamentally broken? How might that change our collective behaviour?
 
 ## Enter The Mainstream Media
 <div class="quotes-opener">
