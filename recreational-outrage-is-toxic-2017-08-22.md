@@ -12,15 +12,26 @@ coverImg: "http://a.nosaj.io/cover--problems.gif"
 	</blockquote>
 </div>
 
-We all like to believe that we're in control of our psyche's. We avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol because of fear of losing control.
+Recreational outrage is becoming the modus operandi behaviour nowadays. 
 
-As with most things, the sense of control and ownership we exercise over our lives is — for the most part — an illusion.
+We like to believe that we're not so easily affected by external forces though. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of losing control.
 
-In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) that was carried out in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell (of trash) into the room with them.
+As with most things we perceive, the sense of control we exercise over our lives is, for the most part, an illusion.
 
-The outcome of the above study is concerning. If how people behave depends such a great deal on how we perceive our environment, what happens when we collectively perceive the world around us as fundamentally broken?
+In [a study](https://www.newscientist.com/article/mg21528731-800-the-yuck-factor-the-surprising-power-of-disgust/) that was carried out in 2012, scientists were able to influence participants to behave in a way considered prejudiced simply by introducing a bad smell into the room with them.
+
+In [another study](http://www.pnas.org/content/111/24/8788.full), this one from 2013, scientists were able to use Facebook to manipulate the state of others through 'emotional contagion'. This means that moods like depression and happiness were transferred through the network by controlling the data participants were exposed to.
+
+The outcomes of the above studies could highlight a serious latent flaw in how humans use networks. If how people behave depends such a great deal on how we perceive our environment, what happens when people start to perceive the world as fundamentally broken? How might that change our collective behaviour?
 
 ## Enter The Mainstream Media
+<div class="quotes-opener">
+	<blockquote>
+		<p>Early in life I had noticed that no event is ever correctly reported in a newspaper.</p>
+		<cite>– George Orewll</cite>
+	</blockquote>
+</div>
+
 The [mainstream media](https://en.wikipedia.org/wiki/Mainstream_media) and social networking sites have learned that [stories spun in a negative hyperbolic way are often more performant for the metric they pursue (time on site) than stories that are told in a balanced way](https://www.theatlantic.com/technology/archive/2014/06/everything-we-know-about-facebooks-secret-mood-manipulation-experiment/373648/).
 
 I wonder what would happen if everybody – especially the MSM – recognised the damage this constant state of hysteria is doing to society, and changed their focus from spinning everything negatively to affecting positive change.
