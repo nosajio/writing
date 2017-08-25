@@ -26,7 +26,7 @@ The YouTube app will do things that makes passive use almost impossible:
 
 ## The Solution
 <div class="video">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/zZepgtPbdEI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+  <iframe width="750" height="427" src="https://www.youtube.com/embed/zZepgtPbdEI?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
 The premise of Ripcast is simple: it's a tool for creating and sharing podcasts made from YouTube content. For example, here is the feed for the podcast I made in the demo video above containing startup talks. 
