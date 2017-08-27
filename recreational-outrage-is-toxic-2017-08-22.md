@@ -12,7 +12,7 @@ coverImg: "http://a.nosaj.io/cover--problems.gif"
 	</blockquote>
 </div>
 
-Recreational outrage is becoming the modus operandi behaviour nowadays. 
+Recreational outrage is becoming the fashionable way to behave nowadays.
 
 Despite all the ambient hysteria going on around us at all times, we like to believe that we're not so easily affected as others by external forces. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of not being in control.
 
