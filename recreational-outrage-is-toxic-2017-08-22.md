@@ -1,5 +1,5 @@
 ---
-title: "Recreational Outrage is Toxic"
+title: "When Everything is a Problem"
 coverColor: "#EE7B45"
 category: "humans"
 coverImg: "http://a.nosaj.io/cover--problems.gif"
@@ -12,9 +12,9 @@ coverImg: "http://a.nosaj.io/cover--problems.gif"
 	</blockquote>
 </div>
 
-Recreational outrage is becoming the fashionable way to behave nowadays.
+If the world had an outrage meter, it would be maxed out right now.
 
-Despite all the ambient hysteria going on around us at all times, we like to believe that we're not so easily affected as others by external forces. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of not being in control.
+Despite all the ambient hysteria going on around us as of late, we like to believe that we're not that easily affected by the world outside of what we deem acceptable. We like to think we're robust to manipulation. Some of us avoid people and technologies we think are manipulative. Some of us even avoid drugs and alcohol due to fear of not being in control.
 
 As with most things we perceive, the sense of control we exercise over our lives is, for the most part, an illusion.
 
