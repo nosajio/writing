@@ -1,5 +1,5 @@
 ---
-title: How I Made an App For Turning YouTube Videos Into Podcasts
+title: How I Made The App That Turns YouTube Videos Into Podcasts
 category: "writeup"
 coverImg: "http://a.nosaj.io/cover--ripcast.jpg"
 coverColor: "#8CFFBA"
