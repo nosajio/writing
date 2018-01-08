@@ -22,7 +22,10 @@ The modular scale is to the eyes what the musical scale is to the ears. Musical 
 - They highlight an invisible structure of "meaningful numbers" that coincide with ratios that the human brain finds appealing.
 - Because of this, they can be used to make something look or sound good without the need to understand why it works.
 
-[Curve with no labels]
+<div class="image">
+  <img src="http://a.nosaj.io/modularscale/ms-chart.jpg" alt="A graph of the modular scale" />
+  <div class="caption">How it looks when you graph the values of a modular scale.</div>
+</div>
 
 ### Three magic numbers
 If you wanted to make a modular scale, you'd need to define just three numbers:
@@ -33,14 +36,10 @@ If you wanted to make a modular scale, you'd need to define just three numbers:
 
 And you'd apply the numbers like so:
 
-<div class="maths">***Value** = **Scale^Exponent^** ⋅ **Base***</div>
-
 [modular scale curve with numbers]
 
 ## A tool for working with the modular scale
-<div class="box">
 I've made a [GitHub repository](https://github.com/nosajio/modularscale) containing a bunch of implementations of the modular scale in different frontend languages.
-</div>
 
 The languages supported so far are: SCSS, pure Javascript, and Styled Components. If you'd like to add more, make a pull request and I'll make sure to merge it in.
 
