@@ -13,14 +13,14 @@ Visual scales are nothing new. Typographers and graphic designers have experimen
 
 Visual scales are invented to take the guesswork out of composing layouts. By using mathematics ,  to eyeball everything they placed on a page until it looked right.
 
-The modular scale has almost fallen out of use today. Some libraries, like [Bourbon](https://www.bourbon.io/docs/latest/#modular-scale), still come with modular scale functionality, buy its rare to see it put to use in real projects.
+The modular scale has almost fallen out of use today. Some libraries, like [Bourbon](https://www.bourbon.io/docs/latest/#modular-scale), still come with modular scale functionality, but it's rare to see it relied on in large projects.
 
 ## A visual guide to the modular scale
 The modular scale is to the eyes what the musical scale is to the ears. Musical and visual scales share three important similarities:
 
 - They can be expressed as simple mathematical formulas. 
 - They highlight an invisible structure of "meaningful numbers" that coincide with ratios that the human brain finds appealing.
-- Because of this, they can be used to make something look or sound good without the need to understand why it works.
+- Because of this, a user of scales can make something look or sound good without the need to understand why the scale works.
 
 <div class="image">
   <img src="http://a.nosaj.io/modularscale/ms-chart.jpg" alt="A graph of the modular scale" />
@@ -34,9 +34,11 @@ If you wanted to make a modular scale, you'd need to define just three numbers:
 - **Base** The number to be multiplied by (on the web this is usually the default font size of 16px.
 - **Scale** The most important number. Set's the amount that the scale will increase by on each step.
 
-And you'd apply the numbers like so:
+The numbers would apply to the graph above like so:
 
-[modular scale curve with numbers]
+<div class="image">
+  <img src="http://a.nosaj.io/modularscale/ms-chart-labelled.jpg" alt="A graph of the modular scale" />
+</div>
 
 ## A tool for working with the modular scale
 I've made a [GitHub repository](https://github.com/nosajio/modularscale) containing a bunch of implementations of the modular scale in different frontend languages.
