@@ -23,7 +23,7 @@ The modular scale is to the eyes what the musical scale is to the ears. Musical 
 - Because of this, a user of scales can make something look or sound good without the need to understand why the scale works.
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-chart.jpg" alt="A graph of the modular scale" />
+  <img src="http://a.nosaj.io/modularscale/ms-chart-labelled.jpg" alt="A graph of the modular scale" />
   <div class="caption">How it looks when you graph the values of a modular scale.</div>
 </div>
 
