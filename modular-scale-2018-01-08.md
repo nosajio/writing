@@ -1,5 +1,5 @@
 ---
-title: "Scale is just another component"
+title: "Size & Scale as Components"
 ---
 
 The news of modular scales first reached me in 2011. I read an A List Apart article titled ["More Meaningful Typography"](http://alistapart.com/article/more-meaningful-typography). Almost seven years on, I still use the modular scale in all my design work.
