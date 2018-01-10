@@ -27,18 +27,20 @@ The modular scale is to the eyes what the musical scale is to the ears. Musical 
   <div class="caption">How it looks when you graph the values of a modular scale.</div>
 </div>
 
-### Three magic numbers
-If you wanted to make a modular scale, you'd need to define just three numbers:
-
-- **Exponent** The number that let's you move forward and backwards along the scale.
-- **Base** The number to be multiplied by (on the web this is usually the default font size of 16px.
-- **Scale** The most important number. Set's the amount that the scale will increase by on each step.
-
-The numbers would apply to the graph above like so:
+### Two magic numbers
+A modular scale is comprised of two numbers:
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-chart-labelled.jpg" alt="A graph of the modular scale" />
+  <img src="http://a.nosaj.io/modularscale/ms-formula.png" alt="The modular scale formula" />
 </div>
+
+- **Exponent** The number that let's you move forward and backwards along the scale.
+- **Base** The most important number. It affects the amount the scale will increase by on each step.
+
+<div class="image">
+  <img src="http://a.nosaj.io/modularscale/ms-formula-examples.png" alt="" />
+</div>
+
 
 ## A tool for working with the modular scale
 I've made a [GitHub repository](https://github.com/nosajio/modularscale) containing a bunch of implementations of the modular scale in different frontend languages.
@@ -52,10 +54,8 @@ There's a tool for experimenting with different scales at [modularscale.com](htt
   <div class="caption">A simple layout constructed using the modular scale.</div>
 </div>
 
-As you can see in the example above, by adjusting the scale's exponent value it's possible to compose a layout relying just on the modular scale for sizes and spaces, and because it's [DRY](https://www.codementor.io/joshuaaroke/dry-code-vs-wet-code-89xjwv11w), any changes to the base or scale variables will affect the entire layout. This is the magic of the modular scale.
+As you can see in the example above, by adjusting the scale's exponent value it's possible to compose a layout relying just on the modular scale for sizes and spaces, and because it's [DRY](https://www.codementor.io/joshuaaroke/dry-code-vs-wet-code-89xjwv11w), any changes to the scale variables will affect the entire layout. This is the magic of the modular scale.
 
 For examples of how to use one of the modular scale helpers in your own project, refer to the Readme or the examples over on GitHub.
 
 If you have any questions or recommendations about the modularscale-helpers project, you can find me on [twitter @__nosaj](https://twitter.com/__nosaj).
-
-
