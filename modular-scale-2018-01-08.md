@@ -11,7 +11,7 @@ The news of modular scales first reached me in 2011. I read an A List Apart arti
 
 Visual scales are nothing new. Typographers and graphic designers have experimented with them for centuries to bring elegance and structure to their work.
 
-Visual scales are invented to take the guesswork out of composing layouts. By using mathematics ,  to eyeball everything they placed on a page until it looked right.
+Visual scales help take the guesswork out of composing layouts so that attention can be directed towards more useful things.
 
 The modular scale has almost fallen out of use today. Some libraries, like [Bourbon](https://www.bourbon.io/docs/latest/#modular-scale), still come with modular scale functionality, but it's rare to see it relied on in large projects.
 

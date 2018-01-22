@@ -18,9 +18,9 @@ On the other side of the equation is the attention economy. The attention econom
   <div class="caption">Habits can be used to achieve distant goals.</div>
 </div>
 
-It's obvious that your brain likes a degree of consistency. Everyone is different in this way – some people are more spontaneous than others and dislike routine, while others hone routine like a tool. I was the former for a long time, but lately I've seen benefit of the latter.
+It's obvious that your brain likes a degree of consistency. Everyone is different in this way – some people are more spontaneous than others and dislike routine, while others hone routine like a tool. I was the former for a long time, but lately I've seen the benefit of the latter.
 
-Whether or not you respond to routine doesn't matter much, your brain can still be coerced into forming new habits. However, the time is takes for a new habit to stick can vary from person to person. This is why it helps to stack the deck in your favour by hacking your neural circuitry.
+Whether or not you respond to routine doesn't matter much, your brain can still be coerced into forming new habits. However, the time it takes for a new habit to stick can vary from person to person. This is why it helps to stack the deck in your favour by hacking your neural circuitry.
 
 ## The Low Expectation Hack
 *The low expectation hack is a name I've thought of for this because I can't find the actual name of this technique. *

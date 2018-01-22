@@ -1,7 +1,5 @@
 ---
 title: "Simple Always Wins"
-category: "thinking"
-coverColor: "#1f1e4b"
 ---
 
 In this essay I'm going to show you why simple solutions will always be the ones that rise to the top and stay there for the longest time. 
@@ -15,9 +13,9 @@ If Einstein had expressed `e=mc²` in a more complicated way, then "Einstein" mi
 
 I was surprised to learn that this seems to be close to what really happened with `e=mc²`. It's clear that physicists around at the time of Einstein's discovery were converging on a theory of special relativity anyway. The second favourite for making the discovery was Austrian physicist Hasenöhrl. 
 
-	Did Einstein know of Hasenöhrl's work? "I can't prove it, but I am reasonably certain that Einstein must have done, and just decided to do it better", says [Tony Rothman of Princeton University]. But failure to cite it was not inconsistent with the conventions of the time.
-	
-	– [Did Einstein discover E = mc2?, physicsworld.com](http://physicsworld.com/cws/article/news/2011/aug/23/did-einstein-discover-e-equals-mc-squared)
+> Did Einstein know of Hasenöhrl's work? "I can't prove it, but I am reasonably certain that Einstein must have done, and just decided to do it better", says [Tony Rothman of Princeton University]. But failure to cite it was not inconsistent with the conventions of the time.
+
+> [Did Einstein discover E = mc2?, physicsworld.com](http://physicsworld.com/cws/article/news/2011/aug/23/did-einstein-discover-e-equals-mc-squared)
 
 ### Simplicity in Writing
 Writing that takes too long to say what its trying to say is more effort and not at all enjoyable to read. Writing that uses as few words as possible–without losing its essence—is enjoyable to read.
@@ -36,7 +34,9 @@ Smartphones are a good case study of this process in action because they've chan
 
 As the years passed, each subsequent iteration of the iPhone has been pulled towards the wants and needs of the market. This will happen regardless of whether or not the "market" is aware of what it wants or needs.
 
-[iphone iterations]
+<div class="image">
+  <img src="http://a.nosaj.io/simple/iphones.jpg" alt="" />
+</div>
 
 Just by observing the iPhone's form change over time, it's empirically clear that people desire large screens, sleek forms, and a few necessary hardware buttons. 
 
@@ -48,14 +48,9 @@ As far as I'm aware, the only exception to this rule applies to monopoly product
 
 A good example of a monopoly product growing complex through complacency is Ebay. After a certain point Ebay thought it pointless to make any changes the product because there was nothing to make them do it. They realised that if they just kept the product afloat customers would still use it. And they were right.
 
-[Ebay dashboard over time]
-
 ## Why do our brains like simplicity?
 Given that we are, for the most part, single threaded thinkers, humans are bound by the speed that we can contemplate the world. Looked at in a different way, humans need to be able to make sense of the world in the most efficient way possible.
 
 The need for us to explain things without the hardware for it leaves us open to some rather large floors. Floors like ideological or religious possession, which short circuits the need for us to think by turning to the ideology for answers.
 
 Evolutionarily it makes sense that humans developed a bias towards things that are easy to understand, and a bias against things that are complex or chaotic. When we interface with the world, this bias manifests as a preference for things that are just within or just outside our map of the world. Too simple and its boring; too complex and we feel uncomfortable.
-
-
-
