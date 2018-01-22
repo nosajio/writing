@@ -29,11 +29,11 @@ This technique works, roughly speaking, because you're happiest when you're achi
 
 The first step is to decide on when and how often you'd like to read. The ideal time is every day or few days to make the behaviour more likely to stick.
 
-2, set your expectations so low that it would be almost impossible to fail. For example: "I'm going to read a page per day". By setting expectations laughably low you're increasing the chance that you'll show up every time. Showing up is the most important part. I repeat: showing up is the most important part!
+Two, set your expectations so low that it would be almost impossible to fail. For example: "I'm going to read a page per day". By setting expectations laughably low you're increasing the chance that you'll show up every time. Showing up is the most important part. I repeat: showing up is the most important part!
 
-3, Write down how often you plan to read and your expectation for each session. Better still, set your calendar to remind you.
+Three, Write down how often you plan to read and your expectation for each session. Better still, set your calendar to remind you.
 
-4, queue a reward. Think of something that you enjoy to do like watching a TV show you like. This will be your reward that you'll act out after you've finished reading. The reward completes what is known as the "habit loop" – the algorithm your brain uses to form lasting habits.
+Fourth and finally, queue a reward. Think of something that you enjoy to do like watching a TV show you like. This will be your reward that you'll act out after you've finished reading. The reward completes what is known as the "habit loop" – the algorithm your brain uses to form lasting habits.
 
 <div class="image">
   <img src="http://a.nosaj.io/habit-loop.png" alt="" />
