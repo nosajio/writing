@@ -25,15 +25,15 @@ Whether or not you respond to routine doesn't matter much, your brain can still 
 ## The Low Expectation Hack
 *The low expectation hack is a name I've thought of for this because I can't find the actual name of this technique. *
 
-Roughly speaking, this technique works because you're happiest when you're achieving things, but you can trick your brain into thinking almost anything is an achievement. You just have to set an achievable goal.
+This technique works, roughly speaking, because you're happiest when you're achieving things, and you can trick your brain into thinking almost anything is an achievement. You just have to manage your own expectations.
 
 The first step is to decide on when and how often you'd like to read. The ideal time is every day or few days to make the behaviour more likely to stick.
 
-2, set your expectations so low that it would be almost impossible to fail. For example: "I'm going to read a page per day". By setting expectations laughably low you're increasing the chance that you'll show up every time. The showing up is the most important part. I repeat: showing up is the most important part!
+2, set your expectations so low that it would be almost impossible to fail. For example: "I'm going to read a page per day". By setting expectations laughably low you're increasing the chance that you'll show up every time. Showing up is the most important part. I repeat: showing up is the most important part!
 
-3, Write your expectations down somewhere that you'll see it every day, or better still set your calendar to remind you.
+3, Write down how often you plan to read and your expectation for each session. Better still, set your calendar to remind you.
 
-4, think of something that you enjoy to do like watching that TV show you like. This will be your reward that you'll act out after you've finished reading. The reward completes what is known as the "habit loop" – the algorithm your brain uses to form lasting habits.
+4, queue a reward. Think of something that you enjoy to do like watching a TV show you like. This will be your reward that you'll act out after you've finished reading. The reward completes what is known as the "habit loop" – the algorithm your brain uses to form lasting habits.
 
 <div class="image">
   <img src="http://a.nosaj.io/habit-loop.png" alt="" />
@@ -43,14 +43,13 @@ The first step is to decide on when and how often you'd like to read. The ideal 
 ## Why does this technique work?
 We are our own biggest hurdle when it comes to not doing what we know we should do. Our behaviour patterns are replete with an assortment of fears and anxieties that make it hard to do the things we know we should do, and make it easy to procrastinate.
 
-When you keep your expectations very low, you won't have any anxiety about the act of reading because you'll know you can live up to your own expectations without any doubt. Now it's highly likely you'll actually pick up a book. Once the book is open in your hands the hardest part is over. 
+When you keep your expectations very low, you won't get anxious about the act of reading because you'll know you can live up to your own expectations. Now it's highly likely you'll actually pick up a book. Once the book is open in your hands, the hardest part is behind you. 
 
-This method can seem inefficient from a distance because reading a book at one page per day could take a year or more. This would be true if it weren't for those days when you read 10x or 20x your goal. There's a hidden lottery in this method; some days you'll show up with zeal and surpass your expectations. Other days you won't feel like reading at all, so you'll just meet your expectations.
+This method can seem inefficient at first because reading a book at one page a day could take a year or more. This would be true if it weren't for those days when you read 10x or 20x your goal. There's a hidden lottery in this method; some days you'll show up with zeal and surpass your expectations. Other days you won't feel like reading at all, so you'll just meet your expectations.
 
-## Use this throughout your life
-This essay is about reading but it could easily have been about almost any behaviour. The technique I laid out above is something that I've learned from numerous books and podcasts. 
-
-**Sources include:**
-Tim ferris & Tim urban podcast
-Power of Habit book
-Prof J Peterson video on habits
+## Use this method throughout your life
+This essay is about reading but it could easily be about almost any conceivable habit. The technique I laid out above is something that I've learned from numerous books and podcasts. There's some links below:
+ 
+- [The Power of Habit [book]](https://www.amazon.co.uk/Power-Habit-Why-What-Change/dp/1847946240).
+- [Jordan Peterson on Goals, Scheduling, Negotiating & Friendship [video]](https://www.youtube.com/watch?v=NLVUXbdqjUw)
+- [Tim ferris & Tim urban [Podcast]](https://tim.blog/2017/11/30/managing-procrastination-predicting-the-future-and-finding-happiness/)
