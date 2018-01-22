@@ -6,9 +6,9 @@ There's no doubt that reading is a [remarkable tool for personal growth and succ
 
 ---
 
-Reading is like exercise. We all know we'd be better off doing more of it, but something more important always comes along at the perfect moment, like a new episode of that series you like, so we think "it's cool, I'll read twice as much tomorrow!"
+Reading is like exercise. We all know we'd be better off doing more of it, but something more important always comes along at the perfect moment. Like a new episode of that series you like, or a juicy Facebook status. It's fine, you can just read twice as much tomorrow, right?
 
-It only takes a gust of wind to blow us off course when we commit ourselves to a large task like reading a book. Psychologists tend to think that this happens because we set our expectations are set so high and the fear of failure gets too much to handle.
+It only takes a gust of wind to blow us off course when we commit ourselves to a large task like reading a book. Psychologists tend to think that this happens because we set our expectations so high and the fear of failure gets too much to handle.
 
 On the other side of the equation is the attention economy. The attention economy has commodified your attention and competes for access to it. What would most people rather do: bask in the warm glow of a screen, or stare at a cold boring book? I'm not being facetious saying that. Tech products are being made more addicting by the day. In the attention economy the tech is winning.
 
