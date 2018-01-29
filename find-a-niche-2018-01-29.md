@@ -2,15 +2,13 @@
 title: "Find a Niche"
 ---
 
-What's the best way to build a successful startup? It might be more straightforward than you'd think.
+What's the best way to start a successful startup? It might be more straightforward than you'd think.
 
-It's common for wannabe founders to see what the eight figure tech companies are doing and emulate them. This approach could work, depending on what parts they copy and how lucky they are, but I wouldn't bet on it.
-
-Thankfully there's a well tested alternative to startup building that many of the billion dollar tech companies used themselves: Find a niche.
+If you follow your intuition you might find yourself emulating eight figure tech companies. If it works for them it could work for anybody, right? Emulation can work if you have luck on your side. If you don't, there's a more successful way to start a startup that I'll talk about in this post.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-definition.jpg" alt="" />
-  <div class="caption"></div>
+  <div class="caption">What's a niche?</div>
 </div>
 
 A niche is a small slice of the population (small when compared to the overall population. A million people can be a niche). A niche is defined by overlapping interests or behaviour. Here's some real world examples of niches: 
@@ -20,6 +18,7 @@ A niche is a small slice of the population (small when compared to the overall p
 - Cat owners.
 - People that live in your city.
 - Web developers.
+- Photographers.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-visualised.png" alt="" />
@@ -31,31 +30,31 @@ A niche is a small slice of the population (small when compared to the overall p
 
 Let's go on a little journey. Imagine it's the year 2009 and you're the CEO of the biggest hotel chain in the world, Hilton.
 
-You hear about a tiny company started by two poor guys living in a loft called AirBnb. They're competing for a niche of your customers by allowing people to rent out their homes, not like a hotel at all. You laugh at their naiveté.
+You hear about a tiny company called AirBnb. It was started by two poor guys living in a loft. They're competing for a niche of your customers by allowing people to rent out their homes. You laugh at their naiveté then promptly forget about them.
 
-Now back to the year 2018. AirBnb is worth $30 billion, while Hilton Hotels is worth $7.8 billion. You kick yourself for not taking them out when you had the chance. 
+Now back to the year 2018. AirBnb is worth $30 billion, while Hilton Hotels is worth $7.8 billion. You kick yourself for not seeing it coming. 
 
-Here's the kicker. Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. A startup's strength is in its small footprint. 
+Here's the real kicker: Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. A startup's strength is in its small footprint.
 
-When a startup is small it can attach itself to a niche of people and tailor its product or service to their needs. Customers love that. A multinational company cannot compete with such attention to detail. 
+A small company can attach itself to a niche of people and tailor its product or service to their needs. Customers love it when a company actually cares about them. A multinational company cannot compete with such attention to detail.
 
 ## Competing is for losers
 <div class="image">
   <img src="http://a.nosaj.io/niche/escalator.gif" alt="" />
-  <div class="caption"></div>
+  <div class="caption">Look familiar?</div>
 </div>
+
+Open almost any business or marketing book and you'll find some advice about the toxic effect of needless competition.
 
 > We preach competition, internalize its necessity, and enact its commandments; and as a result, we trap ourselves within it—even though the more we compete, the less we gain. 
 
 > – [Peter Thiel, Zero to One](https://www.amazon.co.uk/Zero-One-Notes-Startups-Future/dp/0804139296)
 
-Open almost any business or marketing book and you'll find advice against needless competition between businesses. The prevailing advice is to look where nobody else is looking.
+It can be a sadistic – even suicidal – move to enter a category where its necessary to compete for scraps of the market. The logical 
 
 > If you can't be first in a category, set up a new category you can be first in.
 
 > – [Al Ries and Jack Trout, The 22 Immutable Laws of Marketing](https://www.amazon.co.uk/22-Immutable-Laws-Marketing/dp/1861976100)
-
-When you have the luxury of selecting from an infinite number of niches, it seems like sadism to enter a category where you need compete for scraps of the market.
 
 This doesn't mean you should be ideologically opposed to competing. Competition in business is inevitable. If you're on to a good thing, competitors will inevitably want a piece of the pie. And the cycle continues.
 
@@ -74,7 +73,7 @@ This doesn't mean you should be ideologically opposed to competing. Competition 
 
 > – [Mike Perham on Indie Hackers Podcast #16](https://www.indiehackers.com/podcast/016-mike-perham-of-sidekiq#1229.767)
 
-There's a common misconception amongst budding entrepreneurs that small companies = small profits. This can be disproved by scribbling some calculations on the back of an envelope. It's actually possible to make millions by selling to a single niche. More than enough to support a small team and grow a company.
+It's a common yet misguided belief that small companies = small revenue. This can be disproved with a few simple calculations. It's easier than you might think to make a million dollars by focussing your efforts on a single niche. A million dollars is chump change for big companies. For a startup or solo founder it's a fortune.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-calculations.png" alt="" />
@@ -83,13 +82,11 @@ There's a common misconception amongst budding entrepreneurs that small companie
 
 ## How to reach niche customers
 
-In the pre-internet days, reaching niche customers must have been near to impossible. 
+Before the internet it would have been substantially harder to build startups how I'm describing in this post. Apart from word of mouth and advertising, there weren't enough reliable channels to reach a niche of customers.
 
-What tools did they have to work with back then? You can only reach so many people with print, television, radio, classified ads and the yellow pages. These are all shotgun approaches. Reaching a niche requires more targeted methods.
+The tools available for targeting niches today are remarkable. You can reach about half the world from the comfort of your living room without having to spend a penny.
 
-The tools available to us for targeting niches today are remarkable. You can make a dent from the comfort of your own home without having to spend a penny.
-
-If you do want to spend money, the available tools are even more precise. Facebook ads and Google ads have the ability to target potential customers based on demographic, interests, dietary needs. You name it. 
+Go to Reddit or Facebook and find where the audience for your product or service hangs out. Introduce yourself, tell them about what you're making for them. Get feedback, then repeat. There's no need for advertising when you can already reach your customers.
 
 ## Narrow then broad
 
@@ -98,10 +95,10 @@ If you do want to spend money, the available tools are even more precise. Facebo
   <div class="caption"></div>
 </div>
 
-A couple of years back I had a chat with Kieran O'Neill, CEO of thread.com. He laid out Thread's strategy for breaking into the clothing industry.
+A couple of years ago I had a chat with Kieran O'Neill, CEO of thread.com. He laid out Thread's strategy for breaking into the clothing industry.
 
-He drew a graph on a whiteboard with a tall narrow bar in the middle. "This is Thread now" he said. "We chose a slice of the market – men's clothing – to focus everything on".
+While discussing Thread's future, Kieran stood up and drew a chart on a whiteboard with a narrow bar in the centre. "This is Thread now" he said. "We selected a slice of the market – men's clothing – and we're gradually growing into it".
 
-Then he drew a second, wider bar over the top of the narrow bar. "Once we're stable in the men's clothing category we can broaden out into further categories. Its easier to start narrow and expand later."
+Then he drew a second, wider bar over the top of the narrow bar. "Once we're doing well in men's clothing we can broaden further into areas of the market. Its better to start narrow and broaden out later."
 
-It doesn't matter if you plan to stay small forever or grow into a multi-national conglomerate. The way to find inertia in the early days is to tap into a niche. Growth can happen later.
+It doesn't matter if you plan to stay small forever or grow into a multi-national conglomerate. The most effective way to find inertia in the early days might be to tap into a niche. Growth can happen later.
