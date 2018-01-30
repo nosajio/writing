@@ -34,7 +34,7 @@ You hear about a young company called AirBnb. It was started by two poor guys li
 
 Now its the year 2018. You're still the CEO of Hilton. AirBnb is worth $30 billion, while Hilton Hotels is worth $7.8 billion. You kick yourself for not seeing it coming. 
 
-Here's the real kicker: Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. Many of a startup's strength comes from its compact footprint.
+Here's the real kicker: Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. Many of a startup's strengths come from its compact footprint.
 
 A small company can attach itself to a niche of people and tailor products or services to their needs. Customers love it when a company actually cares about them. The big companies can't compete with such attention to detail.
 
