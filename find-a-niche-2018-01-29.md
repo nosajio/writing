@@ -2,16 +2,16 @@
 title: "Find a Niche"
 ---
 
-What's the best way to start a successful startup? It might be more straightforward than you'd think.
+What's the best way to start a successful startup? It could be more straightforward than you'd think.
 
-If you follow your intuition you might find yourself emulating eight figure tech companies. If it works for them it could work for anybody, right? Emulation can work if you have luck on your side. If you don't, there's a more successful way to start a startup that I'll talk about in this post.
+If you follow your intuition you might find yourself emulating eight figure tech companies. What works for them will work for anybody, right? Emulation can work if you have luck on your side. But one day the luck will out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-definition.jpg" alt="" />
   <div class="caption">What's a niche?</div>
 </div>
 
-A niche is a small slice of the population (small when compared to the overall population. A million people can be a niche). A niche is defined by overlapping interests or behaviour. Here's some real world examples of niches: 
+A niche is a small slice of the population (small when compared to the overall population; a million people can be a niche). A niche is defined by overlapping interests or behaviours. Here's some real world examples of niches: 
 
 - Podcast listeners.
 - People that ride the bus to work.
@@ -28,15 +28,15 @@ A niche is a small slice of the population (small when compared to the overall p
 
 ## What's special about startups and niches?
 
-Let's go on a little journey. Imagine it's the year 2009 and you're the CEO of the biggest hotel chain in the world, Hilton.
+Let's go on a little adventure. Imagine it's the year 2009 and you're the CEO of the biggest hotel chain in the world, Hilton.
 
-You hear about a tiny company called AirBnb. It was started by two poor guys living in a loft. They're competing for a niche of your customers by allowing people to rent out their homes. You laugh at their naiveté then promptly forget about them.
+You hear about a young company called AirBnb. It was started by two poor guys living in a loft. They're competing for a niche of your customers by allowing people to rent out their homes. You laugh at their naiveté then promptly forget about them.
 
-Now back to the year 2018. AirBnb is worth $30 billion, while Hilton Hotels is worth $7.8 billion. You kick yourself for not seeing it coming. 
+Now its the year 2018. You're still the CEO of Hilton. AirBnb is worth $30 billion, while Hilton Hotels is worth $7.8 billion. You kick yourself for not seeing it coming. 
 
-Here's the real kicker: Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. A startup's strength is in its small footprint.
+Here's the real kicker: Even if you'd have tried to beat them in 2009, AirBnb would have had a natural advantage as a function of their size. Many of a startup's strength comes from its compact footprint.
 
-A small company can attach itself to a niche of people and tailor its product or service to their needs. Customers love it when a company actually cares about them. A multinational company cannot compete with such attention to detail.
+A small company can attach itself to a niche of people and tailor products or services to their needs. Customers love it when a company actually cares about them. The big companies can't compete with such attention to detail.
 
 ## Competing is for losers
 <div class="image">
@@ -50,7 +50,11 @@ Open almost any business or marketing book and you'll find some advice about the
 
 > – [Peter Thiel, Zero to One](https://www.amazon.co.uk/Zero-One-Notes-Startups-Future/dp/0804139296)
 
-It can be a sadistic – even suicidal – move to enter a category where its necessary to compete for scraps of the market. The logical 
+It can be sadistic – even suicidal – to voluntarily compete for scraps of the market. It's better to invent a new category to operate in. This doesn't mean you can't compete for the same customers. It means its better to solve the same problem differently to the competition. The modern example of this is Tesla vs the entire car industry.
+
+<div class="image">
+  <img src="http://a.nosaj.io/niche/tesla-meme.jpg" alt="" />
+</div>
 
 > If you can't be first in a category, set up a new category you can be first in.
 
