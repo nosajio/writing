@@ -6,7 +6,7 @@ What's the best way to build a successful startup? It could be more straightforw
 
 If you follow your intuition you might find yourself emulating eight figure tech companies. What works for them will work for anybody, right? 
 
-Emulation can indeed work if you have luck on your side. But one day the luck will out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
+Emulation can indeed work if you have luck on your side. But one day the luck will run out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-definition.jpg" alt="" />
