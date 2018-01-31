@@ -100,15 +100,15 @@ It's easy. Go to Reddit or Facebook and find where the audience for your product
 
 ## Narrow then broad
 
-<div class="image">
-  <img src="http://a.nosaj.io/niche/narrow-then-broad.png" alt="" />
-  <div class="caption"></div>
-</div>
-
 A couple of years ago I had a chat with Kieran O'Neill, CEO of [thread.com](http://www.thread.com). He laid out Thread's strategy for breaking into the clothing industry.
 
 While discussing Thread's future, Kieran stood up and drew a chart on a whiteboard with a narrow bar in the centre. "This is Thread now" he said. "We selected a slice of the market – men's clothing – and we're gradually growing into it".
 
 Then he drew a second, wider bar over the top of the narrow bar. "Once we're doing well in men's clothing we can broaden further into areas of the market. Its better to start narrow and broaden out later."
+
+<div class="image">
+  <img src="http://a.nosaj.io/niche/narrow-then-broad.png" alt="" />
+  <div class="caption"></div>
+</div>
 
 It doesn't matter if you plan to stay small forever or grow into a multi-national conglomerate. The most effective way to find inertia in the early days might be to tap into a niche. Growth can happen later.
