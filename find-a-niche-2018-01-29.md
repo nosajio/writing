@@ -66,7 +66,7 @@ It can be sadistic – even suicidal – to voluntarily compete for scraps of th
 
 > – [Al Ries and Jack Trout, The 22 Immutable Laws of Marketing](https://www.amazon.co.uk/22-Immutable-Laws-Marketing/dp/1861976100)
 
-This doesn't mean you should be ideologically opposed to competition. Competition in business is inevitable. If you're on to a good thing and nobody is competing with you yet, they will be soon. And so the cycle continues.
+This doesn't mean you should be ideologically opposed to competition either. Competition in business is inevitable. If you're on to a good thing and nobody is competing with you yet, they will be soon. And so the cycle continues.
 
 > If you make anything good, you're going to have competitors, so you may as well face that. You can only avoid competition by avoiding good ideas.
 
