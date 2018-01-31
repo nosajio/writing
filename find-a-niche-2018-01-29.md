@@ -13,19 +13,23 @@ Emulation can indeed work if you have luck on your side. But one day the luck wi
   <div class="caption">What's a niche?</div>
 </div>
 
-A niche is a small slice of the population (small when compared to the overall population; a million people can be a niche). A niche is defined by overlapping interests or behaviours. Here's some real world examples of niches: 
-
-- Podcast listeners.
-- People that ride the bus to work.
-- Cat owners.
-- People that live in your city.
-- Web developers.
-- Photographers.
+A niche is a slice of a market category. Niche customers are usually outliers that have different needs from the norm. The niche is the exception and not the rule, this makes them small relitive to the entire market category. 
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-visualised.png" alt="" />
   <div class="caption">A niche is a relatively small segment of the population.</div>
 </div>
+
+Every human belongs to a variety of niches by virtue of us having different interests and needs. Some examples of niches:
+
+- Podcast listeners.
+- People that ride the bus to work.
+- Cat owners.
+- People that live in New York City.
+- Web developers.
+- Photographers.
+
+Big businesses can't afford to focus on niches without going bankrupt. On the other hand, small businesses like startups and solo makers can focus on niches with great success. 
 
 
 ## What's special about startups and niches?
