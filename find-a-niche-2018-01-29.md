@@ -2,7 +2,7 @@
 title: "Find a Niche"
 ---
 
-What's the best way to start a successful startup? It could be more straightforward than you'd think.
+What's the best way to build a successful startup? It could be more straightforward than you'd think.
 
 If you follow your intuition you might find yourself emulating eight figure tech companies. What works for them will work for anybody, right? 
 
