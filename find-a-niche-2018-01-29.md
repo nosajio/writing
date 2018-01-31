@@ -4,7 +4,9 @@ title: "Find a Niche"
 
 What's the best way to start a successful startup? It could be more straightforward than you'd think.
 
-If you follow your intuition you might find yourself emulating eight figure tech companies. What works for them will work for anybody, right? Emulation can work if you have luck on your side. But one day the luck will out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
+If you follow your intuition you might find yourself emulating eight figure tech companies. What works for them will work for anybody, right? 
+
+Emulation can indeed work if you have luck on your side. But one day the luck will out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/niche-definition.jpg" alt="" />
