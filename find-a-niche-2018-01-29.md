@@ -56,7 +56,7 @@ Open almost any business or marketing book and you'll find some advice about the
 
 > – [Peter Thiel, Zero to One](https://www.amazon.co.uk/Zero-One-Notes-Startups-Future/dp/0804139296)
 
-It can be sadistic – even suicidal – to voluntarily compete for scraps of the market. It's better to invent a new category to operate in. This doesn't mean you can't compete for the same customers. It means its better to solve the same problem differently to the competition. The modern example of this is Tesla vs the car industry.
+It can be masochistic – even suicidal – to voluntarily compete for scraps of the market. It's better to invent a new category to operate in. This doesn't mean you can't compete for the same customers as other companies. It means its better to solve the problem in a way that ignores other players. The modern example of this is Tesla vs the car industry.
 
 <div class="image">
   <img src="http://a.nosaj.io/niche/tesla-meme.jpg" alt="" />
