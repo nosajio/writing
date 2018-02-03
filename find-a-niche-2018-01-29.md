@@ -1,5 +1,5 @@
 ---
-title: "Find a Niche"
+title: "Find Your Niche"
 ---
 
 What's the best way to build a successful startup? It could be more straightforward than you'd think.
