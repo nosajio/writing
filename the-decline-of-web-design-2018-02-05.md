@@ -4,7 +4,7 @@ title: "The Decline of Web Design, Pt 1"
 
 _Warning: If you're an easily offended designer, don't read this :)._
 
-The web has grown boring. UI designers and web designers have spent too much time indoctrinating ourselves to think of design as a curative exercise. We get swept up in every new trend that comes along, only to find there's no substance it, so we jump on the next trend, and the next, and the next...
+The web has grown boring. UI designers and web designers have spent too long curating instead of creating. We get swept up in every new trend that comes along, only to find there's no substance it, so we jump on the next trend, and the next, and the next...
 
 Don't believe me? Just give a designer a problem to solve and watch. The first thing we do is look around for nice examples of the problem being solved before. If we find what we're looking for, it's likely the applicable parts of the find will end up making it into our project.
 
