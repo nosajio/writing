@@ -14,7 +14,7 @@ On the other side of the equation is the attention economy. The attention econom
 
 ## Habits that foster momentum
 <div class="image">
-  <img src="http://a.nosaj.io/habit-momentum.png" alt="" />
+  <img src="https://a.nosaj.io/habit-momentum.png" alt="" />
   <div class="caption">Habits can be used to achieve distant goals.</div>
 </div>
 
@@ -36,7 +36,7 @@ Three, Write down how often you plan to read and your expectation for each sessi
 Fourth and finally, queue a reward. Think of something that you enjoy to do like watching a TV show you like. This will be your reward that you'll act out after you've finished reading. The reward completes what is known as the "habit loop" – the algorithm your brain uses to form lasting habits.
 
 <div class="image">
-  <img src="http://a.nosaj.io/habit-loop.png" alt="" />
+  <img src="https://a.nosaj.io/habit-loop.png" alt="" />
   <div class="caption">A diagram of the habit loop – the mechanism your brain uses to do things habitually.</div>
 </div>
 

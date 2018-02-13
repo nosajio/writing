@@ -1,7 +1,7 @@
 ---
 title: How I Made The App That Turns YouTube Videos Into Podcasts
 category: "writeup"
-coverImg: "http://a.nosaj.io/cover--ripcast.jpg"
+coverImg: "https://a.nosaj.io/cover--ripcast.jpg"
 coverColor: "#8CFFBA"
 ---
 
@@ -52,7 +52,7 @@ I still blazed on with development because I didn't see any ethical problems wit
 
 ## The Prototype
 <div class="image">
-  <img src="http://a.nosaj.io/ripcast/ripcast-proto.png" alt="Ripcast prototype: adding content" />
+  <img src="https://a.nosaj.io/ripcast/ripcast-proto.png" alt="Ripcast prototype: adding content" />
   <div class="caption">The prototype was a command line thing I hacked together in an evening.</div>
 </div>
 
@@ -82,7 +82,7 @@ The two guiding principles I set for this project involved focussing on convenie
 <div class="box">
 	<h3>Planning The UI</h3>
 	<div class="image">
-		<img src="http://a.nosaj.io/ripcast/ripcast-planning-ui.png" alt="" />	
+		<img src="https://a.nosaj.io/ripcast/ripcast-planning-ui.png" alt="" />	
 	</div>
 	<p>Instead of wasting time labouring over pixel perfect mockups, I opened a double spread in a notebook and designed the UI with a pen. Not only is designing like this more freeing, it's also more effective for idea generation. You want to work with a medium that allows you to try new ideas very quickly. Who cares if it looks messy at this point. All ideas come out messy at first anyway, what you do with them next is more important.</p>
 </div>
@@ -91,7 +91,7 @@ The two guiding principles I set for this project involved focussing on convenie
 There is an inevitable learning curve for every new piece of software we use. One job of the designer is to keep that learning curve as smooth as possible. When a user has to stop and think – or "trips" – the designer has failed. If we visualise the ideal learning curve, it would look like a smooth concave that rises quickly, while a bad curve will look more convex.
 
 <div class="image">
-	<img src="http://a.nosaj.io/ripcast/ripcast-learning-curves.png" alt="" />
+	<img src="https://a.nosaj.io/ripcast/ripcast-learning-curves.png" alt="" />
 </div>
 
 Smooth learning curves are hard to achieve because every user experience is uniquely subjective. The best we can do when designing software is to fall back on likely familiar patterns wherever possible. When the user is already familiar with some of the software, the amount of cognitive effort required for understanding it will be less. As a result, the thing will be easier to learn because the new elements are buttressed with familiar ones. This is why copying what everyone else does can be good for users.
@@ -102,7 +102,7 @@ In order to efficiently turn YouTube videos into audio files, I had to white som
 The file processor runs separately from the main app server. By dividing them up, it's possible to have multiple instances of the file processor running as workers, and of course, multiple workers means concurrent processing. This prevents users from blocking one another when adding content at the same time.
 
 <div class="image">
-	<img src="http://a.nosaj.io/ripcast/ripcast-content-pipeline.png" alt="" />
+	<img src="https://a.nosaj.io/ripcast/ripcast-content-pipeline.png" alt="" />
 	<div class="caption">The app server and processor run as separate processes</div>
 </div>
 

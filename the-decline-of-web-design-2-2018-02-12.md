@@ -6,9 +6,9 @@ The culture of tech today is all about speed speed speed. What's the shortest am
 
 The fast paced culture in tech is an inevitable side effect of technology its self – a sort of self fulfilling prophecy. When a product or tool comes along that can automate part of the product development process, it will be adopted.
 
-In a post [I published last week](https://nosaj.io/r/the-decline-of-web-design) I made the argument that the desire for tech to automate everything is eating into the quality of visual design, and thus the effectiveness of software.
+In a post [I published last week](http://nosaj.io/r/the-decline-of-web-design) I made the argument that the desire for tech to automate everything is eating into the quality of visual design, and thus the effectiveness of software.
 
-%img[A few examples of Google's visual design appropriated for third party web applications](http://a.nosaj.io/decline-of-web-design/material-examples.png)
+%img[A few examples of Google's visual design appropriated for third party web applications](https://a.nosaj.io/decline-of-web-design/material-examples.png)
 
 ## How to make boring software
 In the olden days people made software by locking themselves away in a dark room and pounding away at it until it worked perfectly. Then, after they got it to work as perfectly as they could, they released the "golden master" version to the world. Once it was out of their hands, all they could do was hope that people would use it.
@@ -28,7 +28,7 @@ More important than that, your users aren't blind. They won't share your rationa
 ## How to cheat properly
 The giant car corporations like GM and VAG make chassis, engines, and countless other parts that are used by the global car industry. But most people wouldn't know it. Not because they're blind to it, but because the automotive industry understands the importance of unique visual design.
 
-%img[A 30,000ft view of the automotive industry](http://a.nosaj.io/decline-of-web-design/automotive-brands.png)
+%img[A 30,000ft view of the automotive industry](https://a.nosaj.io/decline-of-web-design/automotive-brands.png)
 
 Cars are an interesting category of product to examine because underneath the shiny packaging they're engineering problems, just like software.
 

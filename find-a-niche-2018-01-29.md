@@ -9,14 +9,14 @@ If you follow your intuition you might find yourself emulating eight figure tech
 Emulation can indeed work if you have luck on your side. But one day the luck will run out and you'll have to actually solve a problem for yourself. Then it's game over. There's a more satisfying (and successful) way to start a startup that I'll talk about in this post.
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/niche-definition.jpg" alt="" />
+  <img src="https://a.nosaj.io/niche/niche-definition.jpg" alt="" />
   <div class="caption">What's a niche?</div>
 </div>
 
 A niche is a slice of a market category. Niche customers are usually outliers that have different needs from the norm. The niche is the exception and not the rule, this makes them small relitive to the entire market category. 
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/niche-visualised.png" alt="" />
+  <img src="https://a.nosaj.io/niche/niche-visualised.png" alt="" />
   <div class="caption">A niche is a relatively small segment of the population.</div>
 </div>
 
@@ -46,7 +46,7 @@ A small company can attach itself to a niche of people and tailor whatever it pr
 
 ## Competition is for losers
 <div class="image">
-  <img src="http://a.nosaj.io/niche/escalator.gif" alt="" />
+  <img src="https://a.nosaj.io/niche/escalator.gif" alt="" />
   <div class="caption">Look familiar?</div>
 </div>
 
@@ -59,7 +59,7 @@ Open almost any business or marketing book and you'll find some advice about the
 It can be masochistic – even suicidal – to voluntarily compete for scraps of the market. It's better to invent a new category to operate in. This doesn't mean you can't compete for the same customers as other companies. It means its better to solve the problem in a way that ignores other players. The modern example of this is Tesla vs the car industry.
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/tesla-meme.jpg" alt="" />
+  <img src="https://a.nosaj.io/niche/tesla-meme.jpg" alt="" />
 </div>
 
 > If you can't be first in a category, set up a new category you can be first in.
@@ -75,7 +75,7 @@ This doesn't mean you should be ideologically opposed to competition either. Com
 ## A niche can make you $1 million
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/moneybed.jpeg" alt="" />
+  <img src="https://a.nosaj.io/niche/moneybed.jpeg" alt="" />
   <div class="caption"></div>
 </div>
 
@@ -86,7 +86,7 @@ This doesn't mean you should be ideologically opposed to competition either. Com
 It's a common yet misguided belief that small companies = small revenue. This can be disproved with some simple maths. It's surprisingly achievable to make more than a million dollars with a small but committed customer base. Perhaps the fact it's surprising is also why we tend to assume small markets aren't worth pursuing.
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/niche-calculations.png" alt="" />
+  <img src="https://a.nosaj.io/niche/niche-calculations.png" alt="" />
   <div class="caption">How to break $1 million without many customers</div>
 </div>
 
@@ -107,7 +107,7 @@ While discussing Thread's future, Kieran stood up and drew a chart on a whiteboa
 Then he drew a second, wider bar over the top of the narrow bar. "Once we're doing well in men's clothing we can broaden further into areas of the market. Its better to start narrow and broaden out later."
 
 <div class="image">
-  <img src="http://a.nosaj.io/niche/narrow-then-broad.png" alt="" />
+  <img src="https://a.nosaj.io/niche/narrow-then-broad.png" alt="" />
   <div class="caption"></div>
 </div>
 

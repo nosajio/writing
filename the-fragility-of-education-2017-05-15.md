@@ -1,7 +1,7 @@
 ---
 title: "Fragility of Education"
 coverColor: "#D7C184"
-coverImg: "http://a.nosaj.io/cover--fragility-of-education.jpg"
+coverImg: "https://a.nosaj.io/cover--fragility-of-education.jpg"
 ---
 
 As technology continues to take over everything, the long-standing monolith known as mainstream education continues to struggle to keep up with the unpredictable serpent that is technology.
@@ -13,7 +13,7 @@ It's hard to ignore the cumbersome—allergic to change—nature of western educ
 Let's hypothesise for a moment. Say that we figure out how to fix the traditional education system's sluggish response to change. Would that make things better? Not really. Even if we fixed that aspect, there's still much work to be done in *how* students are taught, which goes all the way back to the industrial revolution.
 
 <div class="image">
-	<img src="http://a.nosaj.io/school-kids-working.jpg" alt="" />
+	<img src="https://a.nosaj.io/school-kids-working.jpg" alt="" />
 	<span class="caption">
 		A typical classroom during the industrial revolution.
 	</span>

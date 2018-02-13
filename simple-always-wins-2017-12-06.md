@@ -35,7 +35,7 @@ Smartphones are a good case study of this process in action because they've chan
 As the years passed, each subsequent iteration of the iPhone has been pulled towards the wants and needs of the market. This will happen regardless of whether or not the "market" is aware of what it wants or needs.
 
 <div class="image">
-  <img src="http://a.nosaj.io/simple/iphones.jpg" alt="" />
+  <img src="https://a.nosaj.io/simple/iphones.jpg" alt="" />
 </div>
 
 Just by observing the iPhone's form change over time, it's empirically clear that people desire large screens, sleek forms, and a few necessary hardware buttons. 

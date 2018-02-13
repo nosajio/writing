@@ -1,6 +1,6 @@
 ---
 title: "The Bane of Notifications"
-coverImg: "http://a.nosaj.io/cover--bane-of-notifications.jpg"
+coverImg: "https://a.nosaj.io/cover--bane-of-notifications.jpg"
 coverColor: "#ffaaaa"
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Lessons From Making A Beach Holiday Website"
 category: "product"
-coverImg: "http://a.nosaj.io/cover--making-a-holiday-website.jpg"
+coverImg: "https://a.nosaj.io/cover--making-a-holiday-website.jpg"
 coverColor: "#a5e2d1"
 ---
 

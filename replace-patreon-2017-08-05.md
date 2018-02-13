@@ -1,7 +1,7 @@
 ---
 title: Replace Your Patreon Page With PayPal and MailChimp
 category: "idea"
-coverImg: "http://a.nosaj.io/cover--my-patron.jpg"
+coverImg: "https://a.nosaj.io/cover--my-patron.jpg"
 coverColor: "#9f9f9f"
 ---
 
@@ -32,25 +32,25 @@ PayPal don't make it clear how much they charge for using hosted buttons, but it
 
 ## 1: Setup PayPal Subscription Tiers
 <div class="image">
-  <img src="http://a.nosaj.io/paypal-buttons.jpg" alt="" />
+  <img src="https://a.nosaj.io/paypal-buttons.jpg" alt="" />
 </div>
 
 To receive payments, we'll need to tell PayPal what to charge people when they press on the "Subscribe" button. To do this, [PayPal has a form](https://www.paypal.com/buttons/select) that you can use to setup prices and customise how your button looks.
 
 <div class="image">
-  <img src="http://a.nosaj.io/paypal-buttons-code.jpg" alt="" />
+  <img src="https://a.nosaj.io/paypal-buttons-code.jpg" alt="" />
 </div>
 
 Once your button has been configured, PayPal will generate some code that will need to be pasted into the page that we'll make next. After configuring each button, I pasted the generated code into a empty text file for safe keeping.
 
 ## 2: Making the Support Page
 <div class="image narrow fill">
-  <img src="http://a.nosaj.io/patron-page-timelapse.gif" alt="" />
+  <img src="https://a.nosaj.io/patron-page-timelapse.gif" alt="" />
 </div>
 
 <div class="package">
   <p>I've put the code for this on GitHub, and hosted the example page somewhere you can play with it.</p>
-  <a href="http://a.nosaj.io/my-patron/index.html" target="_blank" class="link">Example page</a>
+  <a href="https://a.nosaj.io/my-patron/index.html" target="_blank" class="link">Example page</a>
   <a href="https://github.com/nosajio/my-patron" target="_blank" class="repo">The code</a>
 </div>
 

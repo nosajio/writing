@@ -2,7 +2,7 @@
 title: "When Everything is a Problem"
 coverColor: "#EE7B45"
 category: "humans"
-coverImg: "http://a.nosaj.io/cover--problems.gif"
+coverImg: "https://a.nosaj.io/cover--problems.gif"
 ---
 
 <div class="quotes-opener">

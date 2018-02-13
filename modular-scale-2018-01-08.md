@@ -23,7 +23,7 @@ The modular scale is to the eyes what the musical scale is to the ears. Musical 
 - Because of this, a user of scales can make something look or sound good without the need to understand why the scale works.
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-chart-labelled.jpg" alt="A graph of the modular scale" />
+  <img src="https://a.nosaj.io/modularscale/ms-chart-labelled.jpg" alt="A graph of the modular scale" />
   <div class="caption">How it looks when you graph the values of a modular scale.</div>
 </div>
 
@@ -31,14 +31,14 @@ The modular scale is to the eyes what the musical scale is to the ears. Musical 
 A modular scale is comprised of two numbers:
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-formula.png" alt="The modular scale formula" />
+  <img src="https://a.nosaj.io/modularscale/ms-formula.png" alt="The modular scale formula" />
 </div>
 
 - **Exponent** The number that let's you move forward and backwards along the scale.
 - **Base** The most important number. It affects the amount the scale will increase by on each step.
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-formula-examples.png" alt="" />
+  <img src="https://a.nosaj.io/modularscale/ms-formula-examples.png" alt="" />
 </div>
 
 
@@ -50,7 +50,7 @@ The languages supported so far are: SCSS, pure Javascript, and Styled Components
 There's a tool for experimenting with different scales at [modularscale.com](http://www.modularscale.com).
 
 <div class="image">
-  <img src="http://a.nosaj.io/modularscale/ms-ui-labelled.jpg" alt="UI made with modular scale with labels." />
+  <img src="https://a.nosaj.io/modularscale/ms-ui-labelled.jpg" alt="UI made with modular scale with labels." />
   <div class="caption">A simple layout constructed using the modular scale.</div>
 </div>
 
