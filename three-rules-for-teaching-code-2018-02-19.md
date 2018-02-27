@@ -4,7 +4,7 @@ title: "Three Rules for Teaching Beginners How to Code"
 
 After teaming up with Elliot and Jack from CodeAtUni to work on a [startup](https://justalevel.com) last year, plans were in the works for me to help them with teaching after the startup stress was over.
 
-As you probably guessed from the name, [CodeAtUni](https://codeatuni.com) run coding workshops at Universities. Anybody at the school can usually sign up to the workshops. From my own experience, the most common subjects that CAU students study are business, marketing, and economics.
+As you probably guessed from the name, [CodeAtUni](https://codeatuni.com) run coding workshops at Universities. Anybody that attends the University can usually sign up to the workshops, which brings a diverse range of thought to the clasroom. From my own experience, the most common subjects that CAU students study are business, marketing, and economics.
 
 I've helped out in the classroom four times with CAU so far. At Kings College London and Nottingham Business School. The first time I helped out in the classroom I was surprised to find that teaching is ~60% self-censoring and ~40% communication. To teach absolute newbies how to code, teachers have to learn to pick their words very carefully. Getting this wrong is obvious when there's a room of confused faces looking back at you.
 
