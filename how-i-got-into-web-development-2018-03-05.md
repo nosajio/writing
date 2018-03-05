@@ -8,7 +8,7 @@ When I was in high school we had an IT class on HTML that I remember finding so 
 
 Perhaps it didn't help that the teacher had us writing HTML tags inside of Notepad and testing on IE 6.
 
-%img[HTML in notepad, when tags still had to be UPPERCASE]
+%img[HTML in notepad is not a fun way to learn.](https://a.nosaj.io/web-developer/notepad.jpg)
 
 With the HTML experience behind me, I spent the rest of High School dreaming of being a graphic designer. I liked to draw things by hand: logos, posters, objects, that kind of thing. So it seemed like a fun thing to do. Then I found Photoshop and it changed everything.
 
@@ -18,13 +18,25 @@ The day I got Photoshop was the start of a journey that goes on even to this day
 
 By the end of High School I was hand coding websites using HTML tables. Some of my friends were in a band and asked me to make a website for them. That same summer I learned about PHP from my dad, so I got a book on it.
 
-%img[PHP in a Nutshell: the book that taught me PHP]()
+%img[PHP in a Nutshell: the book that taught me PHP.](https://a.nosaj.io/php-nutshell.jpg/)
 
 After I'd setup an Apache server on an old laptop in my bedroom and managed to get PHP running, I set my sights on making something bigger than I was used to: a web forum. Why? Well, leaving aside the fact that I didn't realise PHPBB was a free open source forum, I wanted to make a place for my friends and I to hang out online. A place we owned.
 
-%img[This page meant PHP was installed properly. There was no better feeling.]()
+%img[This page meant PHP was installed properly. There was no better feeling.](https://a.nosaj.io/web-developer/phpinfo.jpg)
 
-A year later at age 17, I was under pressure from my parents to either get a job or go to University. I chose the former. I applied for two jobs, got an interview, and started as a junior web developer for a small web design shop near to my hometown called Trinity Design. It was a terrifying leap for me. Despite leaving the company less than a year later, I continued to work with them on a freelance basis for years after.
+---
+
+It's worth pointing out here that I still learn as much as I can by getting my hands dirty asap. It's not always a pretty way to learn. There can be a lot of wasted time (at least that's how it feels) and wrong turns, but its the best way to learn because you're doing as well as learning.
+
+I was lucky to stumble into this way of learning while I was young and naive. I'm not sure what happens as people get older and wiser, but they seem to see the process of learning something new in a different way to how a child see's it. 
+
+Adults seem to think that they need to find an expert or a school to learn from, while children tend to be more shortsighted; kids just pick the thing up and use it.
+
+---
+
+A year after I started to teach myself PHP, at age 17, I was under pressure from my parents to either get a job or go to University. I chose the former. 
+
+I applied for two jobs, got an interview for one of them, and started as a junior web developer for a small web design shop near to my hometown called Trinity Design. It was a terrifying leap for me. Despite leaving the company less than a year later, I continued to work with them on a freelance basis for years after.
 
 --- 
 
@@ -32,8 +44,10 @@ I decided to share the above for two reasons:
 
 First because I've found myself repeating it to people countless times when asked how I managed to find my way into the industry without any formal education.
 
-Second, and more important, I shared this story because I meet a lot of people who want to break into the industry more than anything, but they don't know how. 
+Second, and more important, I shared this story because I meet a lot of people who want to break into the industry more than anything, but they don't know where to start. 
 
-I'm here to tell you that the most effective way to do it is to fix your sights on making something and figuring out how to make it. Even if it takes months. Stick with it and be patient. There is no quick fix or easy way to learn. As the hours pile up to days and weeks, then months of experience, you will have gained more useful knowledge than any university course could teach on the subject. 
+I'm here to tell you that the most effective way to do it is to fix your sights on making something and then figure out how to make it. Even if it takes months. Stick with it and be patient. There is no quick fix or easy way to learn. As the hours pile up to days and weeks, then months of experience, you will have gained more useful knowledge than any university course could teach on the subject. 
 
-I know this because I use the same method to learn now: find something inspiring to make, then make it and learn as you go, then repeat. If it works for me it can work for you. Happy making :)
+I know this because I use the same method to learn now: find something inspiring to make, then make it and learn as you go, then repeat. If it works for me it can work for you. 
+
+Happy making :)
