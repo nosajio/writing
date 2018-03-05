@@ -18,7 +18,7 @@ The day I got Photoshop was the start of a journey that goes on even to this day
 
 By the end of High School I was hand coding websites using HTML tables. Some of my friends were in a band and asked me to make a website for them. That same summer I learned about PHP from my dad, so I got a book on it.
 
-%img[PHP in a Nutshell: the book that taught me PHP.](https://a.nosaj.io/php-nutshell.jpg/)
+%img[PHP in a Nutshell: the book that taught me PHP.](https://a.nosaj.io/nutshell.jpg/)
 
 After I'd setup an Apache server on an old laptop in my bedroom and managed to get PHP running, I set my sights on making something bigger than I was used to: a web forum. Why? Well, leaving aside the fact that I didn't realise PHPBB was a free open source forum, I wanted to make a place for my friends and I to hang out online. A place we owned.
 
