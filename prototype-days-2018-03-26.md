@@ -40,9 +40,9 @@ I can't find the original schedule I made, but I remember it looked something li
 
 %img[A typical day when I'd just started freelancing.](https://a.nosaj.io/proto-day/day-past-example.png)
 
-I tweaked how much free time gave myself because I found myself taking time from work, and that seemed like a bad habit in its self. 
+After living it for a while, I tweaked how much free time gave myself because I found myself taking free time away from work time, and that seemed like a bad habit to get into.
 
 %img[Now my typical day looks like this](https://a.nosaj.io/proto-day/day-typical-example.png)
 
-Now, with fewer work hours blocked out throughout the day, I find that I get more done when I am working because time is more precious than when I worked for 7-10hrs every day.
+Now, with fewer work hours blocked out throughout the day, I find that I get more done when I am working because time is more precious than when I worked for upto 10hrs every day.
 
