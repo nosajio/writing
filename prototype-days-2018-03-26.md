@@ -24,7 +24,7 @@ This works well for people like me who are high in openness but low in trait con
 
 ## What does a day prototype look like?
 
-[Examples image]
+%img[Divide the day into 90 minute chunks, with a optional 15min break at the start](https://a.nosaj.io/proto-day/day-90mins.png)
 
 I follow some rules to help me get the most out of the schedule, and make myself more likely to stick to it:
 
@@ -38,9 +38,11 @@ I follow some rules to help me get the most out of the schedule, and make myself
 
 I can't find the original schedule I made, but I remember it looked something like this... 👇
 
-[img]
+%img[A typical day when I'd just started freelancing.](https://a.nosaj.io/proto-day/day-past-example.png)
 
 I tweaked how much free time gave myself because I found myself taking time from work, and that seemed like a bad habit in its self. 
+
+%img[Now my typical day looks like this](https://a.nosaj.io/proto-day/day-typical-example.png)
 
 Now, with fewer work hours blocked out throughout the day, I find that I get more done when I am working because time is more precious than when I worked for 7-10hrs every day.
 
