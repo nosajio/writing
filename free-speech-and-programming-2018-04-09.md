@@ -3,6 +3,7 @@ title: "Free Speech and Programming"
 ---
 
 >"There is no greater assumption of infallibility in forbidding the propagation of error..."
+
 > – On Liberty, John Stuart Mill
 
 There's a million-and-one ways to program today. But no matter what style or language one chooses, there's a feature that all of them have in common: errors.
