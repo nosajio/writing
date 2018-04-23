@@ -20,7 +20,7 @@ Companies understand that when they add new features to their products, interest
 
 Unfortunately, many people indulge in new things as a vehicle for procrastination. We risk wasting our time when we respond to every push notification. We risk making an expensive mistake when we rush to buy the newest gizmo. If you're a developer, you've probably seen how a sexy new framework can cause otherwise rational developers to make regrettable decisions.
 
-%img[Some web frameworks that everybody rushed to use when they came out, but they quickly became uncool.](https://a.nosaj.io/slow/frameworks.jpg)
+%img[Web frameworks that were all the hype when they came out, but they quickly became uncool.](https://a.nosaj.io/slow/frameworks.jpg)
 
 Fortunately there's a feature built into society that rewards those who don't rush towards the new, and instead wait for the best things to come to them. 
 
