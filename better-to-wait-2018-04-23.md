@@ -10,11 +10,11 @@ What is this lure that new things have? We've all seen it. There must be an evol
 
 There's a good chance that the bias we have for newness is a misdirected feature of our human nature. Could it be that a part of our behaviour that is crucial to our survival in one context, is being exploited by businesses as they pursue growth?
 
-  >We are evolved creatures. Our evolutionary drive is responsible for the best things about us and the worst things about us. The very same parameter that makes a mother love her children makes people commit genocide.
+>We are evolved creatures. Our evolutionary drive is responsible for the best things about us and the worst things about us. The very same parameter that makes a mother love her children makes people commit genocide.
 
-  >And that means that you are going to have to pick which things that evolution would have you do are honorable, and which things you wish to reject...because your humanity tells you that you are more than an evolutionary robot.
+>And that means that you are going to have to pick which things that evolution would have you do are honorable, and which things you wish to reject...because your humanity tells you that you are more than an evolutionary robot.
 
-  >– Bret Weinstein, [The Waking Up Podcast #109 – Biology and Culture](https://samharris.org/podcasts/109-biology-culture/)
+>– Bret Weinstein, [The Waking Up Podcast #109 – Biology and Culture](https://samharris.org/podcasts/109-biology-culture/)
 
 Companies understand that when they add new features to their products, interest and sales will increase. News outlets know that new stories get the most eyeballs, so they focus on quantity over quality. The same rules apply to social networks and the effect of notifications. More new stuff = more attention = more money.
 
@@ -26,9 +26,9 @@ Fortunately there's a feature built into society that rewards those who don't ru
 
 Dawkins already demonstrated that this phenomenon occurs with meme theory. To quote from Wikipedia...
 
-  >A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures.
+>A meme acts as a unit for carrying cultural ideas, symbols, or practices, that can be transmitted from one mind to another through writing, speech, gestures, rituals, or other imitable phenomena with a mimicked theme. Supporters of the concept regard memes as cultural analogues to genes in that they self-replicate, mutate, and respond to selective pressures.
 
-  > - [en.wikipedia.org/wiki/Meme](https://en.wikipedia.org/wiki/Meme)
+>- [en.wikipedia.org/wiki/Meme](https://en.wikipedia.org/wiki/Meme)
 
 Some things spread because people tend to remember what we like and forget about what we don't. This causes certain ideas to persist in culture for as long as they're relevant, while the irrelevant or unsuccessful ideas will fade away into the past.
 
