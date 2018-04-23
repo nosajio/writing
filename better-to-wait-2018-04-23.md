@@ -4,7 +4,7 @@ title: "Is it Better to be Fast or Slow?"
 
 When it comes to the things we spend our time and money on—things like the media we consume, the gadgets we buy, and even ideas in which we believe—people have a natural bias towards the new.
 
-%img[Man celebrates after he purchased a phone.](https://a.nosaj.io/slow/apple.jpg)
+%img[A man celebrating after he purchased a phone.](https://a.nosaj.io/slow/apple.jpg)
 
 What is this lure that new things have? We've all seen it. There must be an evolutionary explanation for the fact that merely stating that something is new will cause people to pay more attention to it. 
 
