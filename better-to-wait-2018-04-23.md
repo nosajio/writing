@@ -2,7 +2,7 @@
 title: "Is it better to be slow?"
 ---
 
-When it comes to the things we spend our time and money on—things like the media we consume, gadgets we buy and even the ideas we believe—people have a natural bias towards the new.
+When it comes to the things we spend our time and money on—things like the media we consume, the gadgets we buy, and even ideas in which we believe—people have a natural bias towards the new.
 
 %img[Man celebrates after he purchased a phone.](https://a.nosaj.io/slow/apple.jpg)
 
@@ -36,4 +36,4 @@ New stuff is high risk because it doesn't have qualitative information encoded w
 
 Let's switch angles and look at a negative of waiting: It could be possible for instance, that the crowd has blind spots. Blind spots could be caused by low interest in a certain area, or they could happen because the crowd needs to be a certain size for the signal to be strong enough to propagate. This could cause some things to be left behind after the initial new phase.
 
-Personally, I can live with the risk of missing a few bits of information if it means I can be free from the non-stop stream of whatever happens to be new at this moment.
+Personally, I can live with the risk of missing a few bits of information if it means I can be free from being beholden to the arbitrary, never ending stream of whatever happens to be new at the moment.
