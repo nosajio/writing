@@ -1,5 +1,5 @@
 ---
-title: "Sometimes it's Better to be Slow"
+title: "It's Good to be Slow"
 ---
 
 When it comes to the things we spend our time and money on—things like the media we consume, the gadgets we buy, and even ideas in which we believe—people have a natural bias towards the new.
