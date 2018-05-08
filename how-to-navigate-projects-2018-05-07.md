@@ -4,21 +4,21 @@ title: "How to Navigate Projects"
 
 A client comes to you with an idea—a set of goals they're determined to achieve—and they want you to help them. What do you do?
 
-I've been in this situation many times. The first few times this happened I was absolutely terrified and played it pretty safe. As time went on and more projects came I learned about what it takes to make web products. I started to experiment with it.
+I've been in this situation many times. The first few times this happened I was absolutely terrified and played it pretty safe. As time went on and more projects came my way, I learned about what it takes to make a web product. So I started to experiment with it.
 
 At present, the system I use to navigate a project has settled into a natural pattern. So I figured I'd write it down for the first time right here, right now.
 
 The following plan is by no means designed. At least not self-consciously. It's a pattern that has emerged naturally through working on many projects of different scopes and scales.
 
-It's possible to pick parts from the plan a la carte and they should still work. I do this all the time when I'm approached with a small chunk of work.
+It's possible to pick parts from the plan à la carte and they should work independantly. I do this all the time when I'm approached with a small chunk of work.
 
 ### The plan
-[00.. Clarify](#clarify)  
-[01.. Ideate](#ideate)  
-[02.. Validate](#validate)  
-[03.. Develop](#develop)  
+[01. Clarify](#clarify)  
+[02. Ideate](#ideate)  
+[03. Validate](#validate)  
+[04. Develop](#develop)  
 
-## <a name="clarify"></a>00. Clarify
+## <a name="clarify"></a>01. Clarify
 Why clarify first? Clarifying things makes the future less confusing. 
 
 What should you clarify? Things like vocabulary and concepts are a great place to start, since you'll use these later to think about and form ideas.
@@ -64,7 +64,7 @@ Testing ideas gives you a signal whether or not you're onto something. Put blunt
 
 How do you test an idea? It's a good question that benefits from some creative thinking. The golden rule for validation seems to be to put an accurate representation of your idea in front of the users you think couldn't live without it, and observe carefully. 
 
-My preferred method of validation is the method I used while making one of my web apps, [Ripcast](https://nosaj.io/r/ripcast-writeup). Ripcast lets you generate podcasts from YouTube videos. I had a hunch that there was a crossover of podcast listeners and audio only YouTube listeners whom would find it valuable.  
+My preferred method of validation is the method I used while making one of my web apps, [Ripcast](https://nosaj.io/r/ripcast-writeup). Ripcast lets you generate podcasts from YouTube videos. I had a hunch that there was a crossover of podcast listeners and consumers of lectures and talks whom would find it valuable.  
 
 To test Ripcast I built a simple demo and then started trying to track down some target users. I introduced it on networks like Reddit, to friends via twitter and email, and asked for feedback if they liked it. The response I received back was pretty weak, but now and again somebody would love it.
 
