@@ -45,10 +45,9 @@ Saying "it's broken" is easy – anyone can do that. Fixing problems, that's whe
 This Hacker News comment is a perfect example of what I'm talking about. The comment is in response to a article on VOX titled "[The rich are hoarding economic growth](https://www.vox.com/policy-and-politics/2017/8/8/16112368/piketty-saez-zucman-income-growth-inequality-stagnation-chart)":
 
 > The title and the tone of the OP are a bit inflammatory for my taste, but the data and graphs from the research paper are eye-opening: most economic growth in the US over the past three decades has indeed gone to the top 1%, and particularly to the top 0.01%, leaving everyone else behind.[1]
-> Here's the money shot: https://cdn.vox-cdn.com/uploads/chorus_asset/file/9013427/Sc...
 > However, rather than debate the causes of this divergence, or accuse "the rich" of anything, we should instead be coming up with WORKABLE SOLUTIONS for increasing the income -- and therefore the spending power -- of the masses in a sustainable manner.
 > I imagine a tremendous amount of pent-up consumer demand would be unleashed, because THE MORE THE MASSES EARN, THE MORE THEY SPEND ON PRODUCTS AND SERVICES, including those created by entrepreneurs.
-> [1] Here's the paper: http://gabriel-zucman.eu/files/PSZ2017.pdf
+> [1] Here's the paper: [link](http://gabriel-zucman.eu/files/PSZ2017.pdf)
 > <cite>– [Hacker News user cs702](https://news.ycombinator.com/item?id=15060604)</cite>
 
 Finding a new reason to be outraged is easy. Literally anybody can do that. We have to start making an effort to understand how the world works and use that understanding to make the world better.
